@@ -13,10 +13,12 @@ Diana Gonzáles Agustin
 
 ## Tabla de evaluación del equipo.
 
+Evaluación por Monserrat del Cristo Sánchez
 | Nombre | Colaboración | Comunicación | Responsabilidad
 | ----------- | ----------- | ----------- | ----------- |
-| Header | Title | - | - |
-| Paragraph | Text |  - | - |
+| Paula | Title | - | - |
+| Nadia | Text |  - | - |
+| Diana | Text |  - | - |
 
 ## 1. Propósito de tu juego
 
