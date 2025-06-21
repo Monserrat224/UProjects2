@@ -20,6 +20,28 @@ Evaluación por Monserrat del Cristo Sánchez
 | Nadia | Text |  - | - |
 | Diana | Text |  - | - |
 
+Evaluación por Paula Valeria Herrera Sanherman
+| Nombre | Colaboración | Comunicación | Responsabilidad
+| ----------- | ----------- | ----------- | ----------- |
+| Monserrat | Title | - | - |
+| Nadia | Text |  - | - |
+| Diana | Text |  - | - |
+
+Evaluación por Nadia Valeria Calvario Galindo
+| Nombre | Colaboración | Comunicación | Responsabilidad
+| ----------- | ----------- | ----------- | ----------- |
+| Monserrat | Title | - | - |
+| Nadia | Text |  - | - |
+| Diana | Text |  - | - |
+
+Evaluación por Diana González Agustin
+| Nombre | Colaboración | Comunicación | Responsabilidad
+| ----------- | ----------- | ----------- | ----------- |
+| Monserrat | Title | - | - |
+| Nadia | Text |  - | - |
+| Diana | Text |  - | - |
+
+
 ## 1. Propósito de tu juego
 
 ### 1.1 Resumen del juego
