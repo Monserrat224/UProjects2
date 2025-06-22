@@ -69,7 +69,29 @@ y para lograrlo, tendrá que vencerlos en una pelea 1a1 para ir ganando aliados,
 
 ## 2. Jugabilidad
 
-[Escribe un resumen de mínimo 150 palabras. Incluye al menos una imagen para ilustrar los controles.]: # 
+Diseño de niveles: Los niveles están organizados conforme el resto de personajes se unen para la batalla final.
+
+Las acciones que el jugador puede realizar: 
+W salto
+A va hacia la derecha | izquierda del jugador 
+S agacharse 
+D va hacia la izquierda | derecha del jugador 
+O golpes
+P patada
+O P habilidad especial
+L sujetar 
+
+Sistema de combate: es un juego de peleas por lo cual necesita una respuesta rápida del sistema para que tenga fluidez al ser una parte crucial de la jugabilidad.
+
+Sistema de control: Los controles son muy conocidos y fáciles de identificar o realizar movimientos.
+
+Dificultad: es accesible para el jugador para que este progrese lo más rápido posible y recibir la recompensa de su logro.
+
+Curva de aprendizaje: Es intuitivo los controles así que esto puede ayudar a un progreso más rápido y aprender las mecánicas de este.
+
+Rejugabilidad : La historia es buena y tiene un camino fijo hacia su destino, los personajes son memorables además de ser diferentes entre ellos.
+
+Diversión: Esperamos que la mecánica y la historia sea entretenida para más de uno.
 
 ## 3. Mundo del juego
 
@@ -77,7 +99,12 @@ y para lograrlo, tendrá que vencerlos en una pelea 1a1 para ir ganando aliados,
 
 ## 4. Mecánicas del Juego
 
-[Incluye ejemplos claros o diagramas.]: # 
+El jugador interactúa con los controles ya antes mencionados. La física en los personajes se ve aplicada en cada uno de una manera diferente ya que son de especies diferentes y tienen cualidades diferentes, por lo cual se ve modificado haciendo que en algunas cosas tengan ventaja en los combates afectando el sistema de combates.
+Interfaz de usuario y la experiencia del usuario: el jugador interactuara con el menú de inicio,el de pausa y reanudar. También con escenas y diálogos de texto entre los personajes al iniciar y finalizar las peleas.
+Rendimiento:
+Influye la cantidad de fps qué hagamos por Sprite para que este haga y tenga una experiencia satisfactoria a la hora de jugar. 
+Accesibilidad:
+Es un juego con una diversidad de personajes por lo cual habrá uno para cada modo de juego y necesidad de c/ jugador.
 
 ## 5. Personajes
 
