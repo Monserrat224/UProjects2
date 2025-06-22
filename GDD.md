@@ -143,45 +143,75 @@ Influye la cantidad de fps qué hagamos por Sprite para que este haga y tenga un
 Accesibilidad:
 Es un juego con una diversidad de personajes por lo cual habrá uno para cada modo de juego y necesidad de c/ jugador.
 
-Mecanica de Juego de Kit:
 
-Mecanica de Mira:
+#Mecanica de Mira:
+
 W - Mira levita haciendo que esta brille un poco.
+
 A y D - Mira saca unas patitas de su cuerpo para desplazarse. 
+
 S - Mira reduce su tamaño.
+
 O - Mira lanza pequeños destellos de luz qué infligen daño.
-P - Mira patea con sus pies 
+
+P - Mira patea con sus pies. 
+
 OP- Mira gira hacia delante brillando y realiza daño.
+
 L - Mira con telequinesis sostiene, haciendo que esta brille por la fuerza realizada.
 
-Mecanica de Axol:
+#Mecanica de Axol:
+
 W:Axol salta 
+
 A:Axol camina hacia la derecha
+
 S:Axol se agacha 
+
 D:Axol va hacia la izquierda 
+
 O: Axol golpea con sus puños
+
 P: Axol patea
+
 OP: Axol lanza burbujas
+
 L: Axol sujeta.
 
-Mecanica de Miauricio:
+#Mecanica de Miauricio:
+
 W - Salta.
+
 D - Camina derecha. 
+
 A - Camina izquierda.
+
 S - agacha.
+
 O - patea un elote.
+
 P - te hecha pimienta. 
+
 OP- saca un grano de elote explosivo.
+
 L - Agarrarar.
 
-Habilidades de Kit
+#Habilidades de Kit:
+
 W salto
+
 A correr derecha
+
 D correr izquierda 
+
 S sujetar
+
 O golpe
+
 P patada
+
 OP habilidad especial 
+
 
 Kit es rápido y su tamaño le facilita escapar de las habilidades de los otros personajes.
 
