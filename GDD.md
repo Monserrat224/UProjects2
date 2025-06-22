@@ -100,7 +100,11 @@ Diversión: Esperamos que la mecánica y la historia sea entretenida para más d
 ## 4. Mecánicas del Juego
 
 El jugador interactúa con los controles ya antes mencionados. La física en los personajes se ve aplicada en cada uno de una manera diferente ya que son de especies diferentes y tienen cualidades diferentes, por lo cual se ve modificado haciendo que en algunas cosas tengan ventaja en los combates afectando el sistema de combates.
+<<<<<<< HEAD
 Interfaz de usuario y la experiencia del usuario: el jugador interactuara con el menú de inicio, el de pausa y reanudar. También con escenas y diálogos de texto entre los personajes al iniciar y finalizar las peleas.
+=======
+Interfaz de usuario y la experiencia del usuario: el jugador interactuara con el menú de inicio,el de pausa y reanudar. También con escenas y diálogos de texto entre los personajes al iniciar y finalizar las peleas.
+>>>>>>> c15519b72b6f32d6b00c1089c0c39a6bf5df3712
 Rendimiento:
 Influye la cantidad de fps qué hagamos por Sprite para que este haga y tenga una experiencia satisfactoria a la hora de jugar. 
 Accesibilidad:
