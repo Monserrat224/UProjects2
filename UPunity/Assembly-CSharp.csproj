@@ -60,8 +60,7 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.49f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\jugadores\animaciones.cs" />
-    <Compile Include="Assets\Scripts\jugadores\MonoBehaviourScript.cs" />
+    <Compile Include="Assets\Scripts\jugadores\kit_behavior.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
