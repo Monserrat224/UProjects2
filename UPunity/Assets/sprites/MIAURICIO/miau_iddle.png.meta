@@ -1,0 +1,2496 @@
+fileFormatVersion: 2
+guid: 3a33799f198b9ed4d87a84899d1e19f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8994066898729838449
+    second: miau_iddle_0
+  - first:
+      213: 4139897873017701389
+    second: miau_iddle_1
+  - first:
+      213: 6007999735478552154
+    second: miau_iddle_2
+  - first:
+      213: -2009868302366216461
+    second: miau_iddle_3
+  - first:
+      213: 8672503487404444632
+    second: miau_iddle_4
+  - first:
+      213: -1581202165536838914
+    second: miau_iddle_5
+  - first:
+      213: -3154932874016858752
+    second: miau_iddle_6
+  - first:
+      213: -8584556318613294620
+    second: miau_iddle_7
+  - first:
+      213: 8217768441509015905
+    second: miau_iddle_8
+  - first:
+      213: 210659991442328820
+    second: miau_iddle_9
+  - first:
+      213: 8034519169780396111
+    second: miau_iddle_10
+  - first:
+      213: -6420657199467613909
+    second: miau_iddle_11
+  - first:
+      213: -7160711001378514627
+    second: miau_iddle_12
+  - first:
+      213: 3318020932625302751
+    second: miau_iddle_13
+  - first:
+      213: 3221996736335658529
+    second: miau_iddle_14
+  - first:
+      213: -3779180691631908255
+    second: miau_iddle_15
+  - first:
+      213: 7814585371693446023
+    second: miau_iddle_16
+  - first:
+      213: -1224313865848323683
+    second: miau_iddle_17
+  - first:
+      213: 8441398306854577269
+    second: miau_iddle_18
+  - first:
+      213: -1196066834317139833
+    second: miau_iddle_19
+  - first:
+      213: -2143171157142517428
+    second: miau_iddle_20
+  - first:
+      213: 2794597692986857006
+    second: miau_iddle_21
+  - first:
+      213: 2786704767155340352
+    second: miau_iddle_22
+  - first:
+      213: -1948308752035603214
+    second: miau_iddle_23
+  - first:
+      213: 6226482514111566320
+    second: miau_iddle_24
+  - first:
+      213: -579768273585103317
+    second: miau_iddle_25
+  - first:
+      213: 2828261853748516019
+    second: miau_iddle_26
+  - first:
+      213: 1964621608075529445
+    second: miau_iddle_27
+  - first:
+      213: -4230768765582381440
+    second: miau_iddle_28
+  - first:
+      213: -4970138373829271647
+    second: miau_iddle_29
+  - first:
+      213: -5075591279610711495
+    second: miau_iddle_30
+  - first:
+      213: -4972649005889926620
+    second: miau_iddle_31
+  - first:
+      213: -1082967478682289401
+    second: miau_iddle_32
+  - first:
+      213: 8135400744048529225
+    second: miau_iddle_33
+  - first:
+      213: 277410034367017303
+    second: miau_iddle_34
+  - first:
+      213: 4473393182871093459
+    second: miau_iddle_35
+  - first:
+      213: -870084750223097139
+    second: miau_iddle_36
+  - first:
+      213: -5492756601906143580
+    second: miau_iddle_37
+  - first:
+      213: 1340355272560664610
+    second: miau_iddle_38
+  - first:
+      213: -4394568256954453615
+    second: miau_iddle_39
+  - first:
+      213: 5858870124723520556
+    second: miau_iddle_40
+  - first:
+      213: -3353209526098900438
+    second: miau_iddle_41
+  - first:
+      213: -4428924683162307013
+    second: miau_iddle_42
+  - first:
+      213: 869694306402594602
+    second: miau_iddle_43
+  - first:
+      213: 6939287000531313346
+    second: miau_iddle_44
+  - first:
+      213: -6664723128624969716
+    second: miau_iddle_45
+  - first:
+      213: 7230021180069271840
+    second: miau_iddle_46
+  - first:
+      213: -8449294681574634201
+    second: miau_iddle_47
+  - first:
+      213: -407683114360826685
+    second: miau_iddle_48
+  - first:
+      213: -7371046443184575672
+    second: miau_iddle_49
+  - first:
+      213: 420378014727034817
+    second: miau_iddle_50
+  - first:
+      213: 6791087823784550312
+    second: miau_iddle_51
+  - first:
+      213: -8154252207498249755
+    second: miau_iddle_52
+  - first:
+      213: -4808585778759934210
+    second: miau_iddle_53
+  - first:
+      213: 1865833621052058631
+    second: miau_iddle_54
+  - first:
+      213: 7366093271221975976
+    second: miau_iddle_55
+  - first:
+      213: -882797142544864630
+    second: miau_iddle_56
+  - first:
+      213: 7691865708466387256
+    second: miau_iddle_57
+  - first:
+      213: -5630533349179978377
+    second: miau_iddle_58
+  - first:
+      213: 1407703318661136615
+    second: miau_iddle_59
+  - first:
+      213: -1169488386700490187
+    second: miau_iddle_60
+  - first:
+      213: 1005209474425451311
+    second: miau_iddle_61
+  - first:
+      213: 6641997492119347182
+    second: miau_iddle_62
+  - first:
+      213: 7743126467329474348
+    second: miau_iddle_63
+  - first:
+      213: -422611662232685682
+    second: miau_iddle_64
+  - first:
+      213: -5316381152404224452
+    second: miau_iddle_65
+  - first:
+      213: 6797380630847766630
+    second: miau_iddle_66
+  - first:
+      213: -7460855660929071814
+    second: miau_iddle_67
+  - first:
+      213: -8774473950420095697
+    second: miau_iddle_68
+  - first:
+      213: -1391793511913926355
+    second: miau_iddle_69
+  - first:
+      213: -5613529469772066988
+    second: miau_iddle_70
+  - first:
+      213: 4572737370770187058
+    second: miau_iddle_71
+  - first:
+      213: 890472190896568916
+    second: miau_iddle_72
+  - first:
+      213: 90212153210659528
+    second: miau_iddle_73
+  - first:
+      213: -3712279055652298576
+    second: miau_iddle_74
+  - first:
+      213: 1992624813058520354
+    second: miau_iddle_75
+  - first:
+      213: 2810932363193487774
+    second: miau_iddle_76
+  - first:
+      213: 8994048297818141959
+    second: miau_iddle_77
+  - first:
+      213: 5358872945264826560
+    second: miau_iddle_78
+  - first:
+      213: 8591432578995621530
+    second: miau_iddle_79
+  - first:
+      213: 6943459003663383919
+    second: miau_iddle_80
+  - first:
+      213: -6796210070808888791
+    second: miau_iddle_81
+  - first:
+      213: 6533418912785602071
+    second: miau_iddle_82
+  - first:
+      213: -7641246762122013444
+    second: miau_iddle_83
+  - first:
+      213: 3667172491922299291
+    second: miau_iddle_84
+  - first:
+      213: 3686565243853769698
+    second: miau_iddle_85
+  - first:
+      213: 2356003523982571957
+    second: miau_iddle_86
+  - first:
+      213: -1108439640542326921
+    second: miau_iddle_87
+  - first:
+      213: -976679452256379187
+    second: miau_iddle_88
+  - first:
+      213: 2766103605671548796
+    second: miau_iddle_89
+  - first:
+      213: 7574336480387847685
+    second: miau_iddle_90
+  - first:
+      213: -6242945970393169792
+    second: miau_iddle_91
+  - first:
+      213: 3571707541571861016
+    second: miau_iddle_92
+  - first:
+      213: 3643371796239558554
+    second: miau_iddle_93
+  - first:
+      213: 4688827128929461877
+    second: miau_iddle_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: miau_iddle_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2046
+        width: 162
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88db17eec7ae2380800000000000000
+      internalID: -8994066898729838449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 2046
+        width: 161
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d048d9f6e2fd37930800000000000000
+      internalID: 4139897873017701389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_2
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 2046
+        width: 161
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5607db7de3b06350800000000000000
+      internalID: 6007999735478552154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_3
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 2046
+        width: 159
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fee4208d638b14e0800000000000000
+      internalID: -2009868302366216461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_4
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 2046
+        width: 159
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db041019fbea5870800000000000000
+      internalID: 8672503487404444632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_5
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 2046
+        width: 159
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa291d02017e0ae0800000000000000
+      internalID: -1581202165536838914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_6
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 2046
+        width: 166
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08dd502444d6734d0800000000000000
+      internalID: -3154932874016858752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_7
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 2046
+        width: 166
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e138bad2878dd880800000000000000
+      internalID: -8584556318613294620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_8
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 2046
+        width: 165
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1617f82abd06b0270800000000000000
+      internalID: 8217768441509015905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_9
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 2046
+        width: 167
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc8e46652a6ce200800000000000000
+      internalID: 210659991442328820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1791
+        width: 168
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40b3dfbd98508f60800000000000000
+      internalID: 8034519169780396111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_11
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1791
+        width: 168
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21bd219b4e35e6a0800000000000000
+      internalID: -6420657199467613909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_12
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1791
+        width: 167
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d391a97884b00ac90800000000000000
+      internalID: -7160711001378514627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_13
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1791
+        width: 167
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd40176657afb0e20800000000000000
+      internalID: 3318020932625302751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_14
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1791
+        width: 166
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e31c8f5f4d6bc20800000000000000
+      internalID: 3221996736335658529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_15
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1791
+        width: 170
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ad3451f27ad8bc0800000000000000
+      internalID: -3779180691631908255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_16
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 1791
+        width: 170
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78370cafdfbf27c60800000000000000
+      internalID: 7814585371693446023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_17
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 1791
+        width: 170
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d918684960d520fe0800000000000000
+      internalID: -1224313865848323683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_18
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 1791
+        width: 170
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574a6af190fd52570800000000000000
+      internalID: 8441398306854577269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_19
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 1791
+        width: 170
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780a6ec1d87b66fe0800000000000000
+      internalID: -1196066834317139833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1535
+        width: 170
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4948a5003de142e0800000000000000
+      internalID: -2143171157142517428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_21
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1535
+        width: 173
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e269b9c9bc768c620800000000000000
+      internalID: 2794597692986857006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_22
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1535
+        width: 172
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0448e2c983d5ca620800000000000000
+      internalID: 2786704767155340352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_23
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1535
+        width: 172
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc122a338736f4e0800000000000000
+      internalID: -1948308752035603214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_24
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1535
+        width: 170
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f11dc57bd8e86650800000000000000
+      internalID: 6226482514111566320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_25
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1535
+        width: 172
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e1be0b3df34f7f0800000000000000
+      internalID: -579768273585103317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_26
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1535
+        width: 171
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4d774db21004720800000000000000
+      internalID: 2828261853748516019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_27
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1535
+        width: 171
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec066b81fcb34b10800000000000000
+      internalID: 1964621608075529445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_28
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 1535
+        width: 171
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ee4a8293a4945c0800000000000000
+      internalID: -4230768765582381440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_29
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 1535
+        width: 170
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af5e5f5b75860bb0800000000000000
+      internalID: -4970138373829271647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_30
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1279
+        width: 167
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932bbb17f90ef89b0800000000000000
+      internalID: -5075591279610711495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_31
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1279
+        width: 167
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a4b3b431a9dfab0800000000000000
+      internalID: -4972649005889926620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_32
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1279
+        width: 166
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b77d1e0d688f0f0800000000000000
+      internalID: -1082967478682289401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_33
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1279
+        width: 165
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f067e9fdfb6e070800000000000000
+      internalID: 8135400744048529225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_34
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1279
+        width: 165
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751339bd4fe89d300800000000000000
+      internalID: 277410034367017303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_35
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1279
+        width: 165
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d08fa5166fa41e30800000000000000
+      internalID: 4473393182871093459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_36
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 1279
+        width: 168
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2c7729786dce3f0800000000000000
+      internalID: -870084750223097139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_37
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 1279
+        width: 169
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aed3b1f8fec5c3b0800000000000000
+      internalID: -5492756601906143580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_38
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 1279
+        width: 168
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220ecc5d406e99210800000000000000
+      internalID: 1340355272560664610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_39
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 1279
+        width: 167
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191b507247b5303c0800000000000000
+      internalID: -4394568256954453615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_42
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1023
+        width: 168
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36b623577c4982c0800000000000000
+      internalID: -4428924683162307013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_44
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1023
+        width: 168
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2a725d2cc4d4060800000000000000
+      internalID: 6939287000531313346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_46
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1023
+        width: 169
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029549cf4f1365460800000000000000
+      internalID: 7230021180069271840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_47
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1023
+        width: 169
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d852ed0431eba80800000000000000
+      internalID: -8449294681574634201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_48
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1023
+        width: 169
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c419931e5e975af0800000000000000
+      internalID: -407683114360826685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_49
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1023
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ba31b3058c4b990800000000000000
+      internalID: -7371046443184575672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_50
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1023
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7503fb39b75d500800000000000000
+      internalID: 420378014727034817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_51
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 1023
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af982f156ace3e50800000000000000
+      internalID: 6791087823784550312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_52
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 1023
+        width: 165
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e93f1302d646de80800000000000000
+      internalID: -8154252207498249755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_53
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 1023
+        width: 165
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efed40116b8744db0800000000000000
+      internalID: -4808585778759934210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_56
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 768
+        width: 167
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a22e51dacafb3f0800000000000000
+      internalID: -882797142544864630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_57
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 768
+        width: 168
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839b52dcb1ffeba60800000000000000
+      internalID: 7691865708466387256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_58
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 768
+        width: 168
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d032230c35cd1b0800000000000000
+      internalID: -5630533349179978377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_59
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 768
+        width: 169
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e08fe1c5ba298310800000000000000
+      internalID: 1407703318661136615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_60
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 768
+        width: 156
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ac5cd228425cfe0800000000000000
+      internalID: -1169488386700490187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_62
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 768
+        width: 161
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef1fcc378d1d2c50800000000000000
+      internalID: 6641997492119347182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_63
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 768
+        width: 155
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f39184f7c157b60800000000000000
+      internalID: 7743126467329474348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_65
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 768
+        width: 160
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c364d50628b6836b0800000000000000
+      internalID: -5316381152404224452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_67
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 768
+        width: 158
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a354cd14e47b57890800000000000000
+      internalID: -7460855660929071814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_69
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 768
+        width: 159
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d215da9cc2b5face0800000000000000
+      internalID: -1391793511913926355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_71
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 501
+        width: 161
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23329eb4960a57f30800000000000000
+      internalID: 4572737370770187058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_72
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 501
+        width: 155
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45af0cc5db79b5c00800000000000000
+      internalID: 890472190896568916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_74
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 511
+        width: 155
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0e8bc0ed55b7cc0800000000000000
+      internalID: -3712279055652298576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_76
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 511
+        width: 156
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e911cc36710720720800000000000000
+      internalID: 2810932363193487774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_78
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 511
+        width: 157
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c816fa1d8a8e5a40800000000000000
+      internalID: 5358872945264826560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_80
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 511
+        width: 165
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6df7d10d2f1c5060800000000000000
+      internalID: 6943459003663383919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_81
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 511
+        width: 158
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92af08ec2f20fa1a0800000000000000
+      internalID: -6796210070808888791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_83
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 511
+        width: 157
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf41d9e0e86d4f590800000000000000
+      internalID: -7641246762122013444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_85
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 511
+        width: 157
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb84399e8f492330800000000000000
+      internalID: 3686565243853769698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_87
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 511
+        width: 155
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f438a05080e90f0800000000000000
+      internalID: -1108439640542326921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_89
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 255
+        width: 165
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77dafbe29c236620800000000000000
+      internalID: 2766103605671548796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_90
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 255
+        width: 155
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506dccaf5e27d1960800000000000000
+      internalID: 7574336480387847685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_92
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 255
+        width: 157
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a79f8d511419130800000000000000
+      internalID: 3571707541571861016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_94
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 255
+        width: 157
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5762e096e6f021140800000000000000
+      internalID: 4688827128929461877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_96
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 255
+        width: 156
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272202c429a365545b7d5249c576b94b
+      internalID: -1076713547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_98
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 255
+        width: 165
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c18a6c8df122f3469be85e0aa6165ac
+      internalID: 1108621554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_99
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 255
+        width: 157
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc12c82d2222b74596c3f5585f72cc8
+      internalID: -594048466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_101
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 255
+        width: 157
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57cd143e2fd097469c383471cba3b8e
+      internalID: 1720188935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_103
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 255
+        width: 155
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97989e3b7e459c4da6fde4abd8cb4b2
+      internalID: -975339243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_105
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 255
+        width: 156
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836dc37f388d40b4eb07d8371b8a5563
+      internalID: 1727772188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_107
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 161
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd471c9b27e7d1409d3865316cc7216
+      internalID: -247064591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_108
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 0
+        width: 159
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d840ddcd9e82043812dfa606ae05bb
+      internalID: -850655417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_110
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 0
+        width: 160
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00bf4e150a2f5548a663e3bcde6371e
+      internalID: 143499058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_112
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 0
+        width: 158
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0677fd62a9ca09b4b9d21af8462caaa8
+      internalID: 1772710257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_114
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 0
+        width: 156
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f946fa52e5d6c48ae3b7d5a84f9c5f
+      internalID: -1569973979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_116
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 0
+        width: 161
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47fd9dd67e02d442b54cf02c5fe092b
+      internalID: -235806836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_117
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 0
+        width: 155
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a32a491aad27140bfc08de69f08866
+      internalID: 2108130484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_119
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 0
+        width: 158
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b514b0959b78f498ebc788ecf695d7
+      internalID: 1561006140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_iddle_121
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 0
+        width: 157
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed74636e5214f0047a6681ea77d64f2c
+      internalID: -2066784297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a3d462de01917844abf3a802e8572880
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      miau_iddle_0: -8994066898729838449
+      miau_iddle_1: 4139897873017701389
+      miau_iddle_10: 8034519169780396111
+      miau_iddle_100: -1955647620
+      miau_iddle_101: 1720188935
+      miau_iddle_102: -1336473778
+      miau_iddle_103: -975339243
+      miau_iddle_104: 1241105929
+      miau_iddle_105: 1727772188
+      miau_iddle_106: -1862493560
+      miau_iddle_107: -247064591
+      miau_iddle_108: -850655417
+      miau_iddle_109: 823058146
+      miau_iddle_11: -6420657199467613909
+      miau_iddle_110: 143499058
+      miau_iddle_111: 1728952892
+      miau_iddle_112: 1772710257
+      miau_iddle_113: 545787719
+      miau_iddle_114: -1569973979
+      miau_iddle_115: -630225712
+      miau_iddle_116: -235806836
+      miau_iddle_117: 2108130484
+      miau_iddle_118: -1467826453
+      miau_iddle_119: 1561006140
+      miau_iddle_12: -7160711001378514627
+      miau_iddle_120: -614097606
+      miau_iddle_121: -2066784297
+      miau_iddle_122: 1327754591
+      miau_iddle_13: 3318020932625302751
+      miau_iddle_14: 3221996736335658529
+      miau_iddle_15: -3779180691631908255
+      miau_iddle_16: 7814585371693446023
+      miau_iddle_17: -1224313865848323683
+      miau_iddle_18: 8441398306854577269
+      miau_iddle_19: -1196066834317139833
+      miau_iddle_2: 6007999735478552154
+      miau_iddle_20: -2143171157142517428
+      miau_iddle_21: 2794597692986857006
+      miau_iddle_22: 2786704767155340352
+      miau_iddle_23: -1948308752035603214
+      miau_iddle_24: 6226482514111566320
+      miau_iddle_25: -579768273585103317
+      miau_iddle_26: 2828261853748516019
+      miau_iddle_27: 1964621608075529445
+      miau_iddle_28: -4230768765582381440
+      miau_iddle_29: -4970138373829271647
+      miau_iddle_3: -2009868302366216461
+      miau_iddle_30: -5075591279610711495
+      miau_iddle_31: -4972649005889926620
+      miau_iddle_32: -1082967478682289401
+      miau_iddle_33: 8135400744048529225
+      miau_iddle_34: 277410034367017303
+      miau_iddle_35: 4473393182871093459
+      miau_iddle_36: -870084750223097139
+      miau_iddle_37: -5492756601906143580
+      miau_iddle_38: 1340355272560664610
+      miau_iddle_39: -4394568256954453615
+      miau_iddle_4: 8672503487404444632
+      miau_iddle_40: 5858870124723520556
+      miau_iddle_41: -3353209526098900438
+      miau_iddle_42: -4428924683162307013
+      miau_iddle_43: 869694306402594602
+      miau_iddle_44: 6939287000531313346
+      miau_iddle_45: -6664723128624969716
+      miau_iddle_46: 7230021180069271840
+      miau_iddle_47: -8449294681574634201
+      miau_iddle_48: -407683114360826685
+      miau_iddle_49: -7371046443184575672
+      miau_iddle_5: -1581202165536838914
+      miau_iddle_50: 420378014727034817
+      miau_iddle_51: 6791087823784550312
+      miau_iddle_52: -8154252207498249755
+      miau_iddle_53: -4808585778759934210
+      miau_iddle_54: 1865833621052058631
+      miau_iddle_55: 7366093271221975976
+      miau_iddle_56: -882797142544864630
+      miau_iddle_57: 7691865708466387256
+      miau_iddle_58: -5630533349179978377
+      miau_iddle_59: 1407703318661136615
+      miau_iddle_6: -3154932874016858752
+      miau_iddle_60: -1169488386700490187
+      miau_iddle_61: 1005209474425451311
+      miau_iddle_62: 6641997492119347182
+      miau_iddle_63: 7743126467329474348
+      miau_iddle_64: -422611662232685682
+      miau_iddle_65: -5316381152404224452
+      miau_iddle_66: 6797380630847766630
+      miau_iddle_67: -7460855660929071814
+      miau_iddle_68: -8774473950420095697
+      miau_iddle_69: -1391793511913926355
+      miau_iddle_7: -8584556318613294620
+      miau_iddle_70: -5613529469772066988
+      miau_iddle_71: 4572737370770187058
+      miau_iddle_72: 890472190896568916
+      miau_iddle_73: 90212153210659528
+      miau_iddle_74: -3712279055652298576
+      miau_iddle_75: 1992624813058520354
+      miau_iddle_76: 2810932363193487774
+      miau_iddle_77: 8994048297818141959
+      miau_iddle_78: 5358872945264826560
+      miau_iddle_79: 8591432578995621530
+      miau_iddle_8: 8217768441509015905
+      miau_iddle_80: 6943459003663383919
+      miau_iddle_81: -6796210070808888791
+      miau_iddle_82: 6533418912785602071
+      miau_iddle_83: -7641246762122013444
+      miau_iddle_84: 3667172491922299291
+      miau_iddle_85: 3686565243853769698
+      miau_iddle_86: 2356003523982571957
+      miau_iddle_87: -1108439640542326921
+      miau_iddle_88: -976679452256379187
+      miau_iddle_89: 2766103605671548796
+      miau_iddle_9: 210659991442328820
+      miau_iddle_90: 7574336480387847685
+      miau_iddle_91: -6242945970393169792
+      miau_iddle_92: 3571707541571861016
+      miau_iddle_93: 3643371796239558554
+      miau_iddle_94: 4688827128929461877
+      miau_iddle_95: -999975659
+      miau_iddle_96: -1076713547
+      miau_iddle_97: -61207372
+      miau_iddle_98: 1108621554
+      miau_iddle_99: -594048466
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
