@@ -1,0 +1,842 @@
+fileFormatVersion: 2
+guid: 2e86fdd39ca21854f908993f509ee959
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2294137019831827383
+    second: caminar izquierda_0
+  - first:
+      213: -5038010575249902453
+    second: caminar izquierda_1
+  - first:
+      213: 3077911365871992982
+    second: caminar izquierda_2
+  - first:
+      213: 548557698671454566
+    second: caminar izquierda_3
+  - first:
+      213: 8213907830530215536
+    second: caminar izquierda_4
+  - first:
+      213: -3672753771864964411
+    second: caminar izquierda_5
+  - first:
+      213: 6911566262715323464
+    second: caminar izquierda_6
+  - first:
+      213: -2306570216080479416
+    second: caminar izquierda_7
+  - first:
+      213: -4104894817420718347
+    second: caminar izquierda_8
+  - first:
+      213: 1881137178870932035
+    second: caminar izquierda_9
+  - first:
+      213: 4958167773356191622
+    second: caminar izquierda_10
+  - first:
+      213: -1234439022080392505
+    second: caminar izquierda_11
+  - first:
+      213: 1812966682321678879
+    second: caminar izquierda_12
+  - first:
+      213: 7042677613773060944
+    second: caminar izquierda_13
+  - first:
+      213: 3583262463187384212
+    second: caminar izquierda_14
+  - first:
+      213: -78651182575680075
+    second: caminar izquierda_15
+  - first:
+      213: -897703374698197867
+    second: caminar izquierda_16
+  - first:
+      213: -2995960182651964919
+    second: caminar izquierda_17
+  - first:
+      213: 1077202095673564694
+    second: caminar izquierda_18
+  - first:
+      213: -7433628609491100974
+    second: caminar izquierda_19
+  - first:
+      213: -8836288907374855948
+    second: caminar izquierda_20
+  - first:
+      213: 8448608230274639414
+    second: caminar izquierda_21
+  - first:
+      213: -8369299690802476472
+    second: caminar izquierda_22
+  - first:
+      213: -770873919456896379
+    second: caminar izquierda_23
+  - first:
+      213: -5244950468620841886
+    second: caminar izquierda_24
+  - first:
+      213: 6523073819659297201
+    second: caminar izquierda_25
+  - first:
+      213: -1412077308873132376
+    second: caminar izquierda_26
+  - first:
+      213: -7483140507074435921
+    second: caminar izquierda_27
+  - first:
+      213: -2969881856051630171
+    second: caminar izquierda_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: caminar izquierda_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1023
+        width: 161
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944c9da09869920e0800000000000000
+      internalID: -2294137019831827383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar izquierda_1
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1023
+        width: 161
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8471970314651ab0800000000000000
+      internalID: -5038010575249902453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar izquierda_2
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1023
+        width: 160
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69000fc6410f6ba20800000000000000
+      internalID: 3077911365871992982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar izquierda_3
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1023
+        width: 160
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6692e10125edc9700800000000000000
+      internalID: 548557698671454566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar izquierda_4
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1023
+        width: 165
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e8d8817a9adf170800000000000000
+      internalID: 8213907830530215536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar izquierda_5
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 1023
+        width: 165
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2438057e1c70dc0800000000000000
+      internalID: -3672753771864964411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar izquierda_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 767
+        width: 187
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84498ba95e0daef50800000000000000
+      internalID: 6911566262715323464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar izquierda_7
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 767
+        width: 187
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84be605fb9a6dffd0800000000000000
+      internalID: -2306570216080479416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar izquierda_8
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 767
+        width: 195
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fecb4789eb7807c0800000000000000
+      internalID: -4104894817420718347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar izquierda_9
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 767
+        width: 195
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342e1682c442b1a10800000000000000
+      internalID: 1881137178870932035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar izquierda_10
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 767
+        width: 198
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f6fa30253fec440800000000000000
+      internalID: 4958167773356191622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar izquierda_11
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 767
+        width: 198
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c28400ff346edee0800000000000000
+      internalID: -1234439022080392505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar izquierda_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 511
+        width: 196
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12f6619793f82910800000000000000
+      internalID: 1812966682321678879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar izquierda_13
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 511
+        width: 196
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bf98cd9fd9cb160800000000000000
+      internalID: 7042677613773060944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar izquierda_14
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 511
+        width: 191
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497764fa93e4ab130800000000000000
+      internalID: 3583262463187384212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar izquierda_15
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 511
+        width: 191
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b589698a2398eef0800000000000000
+      internalID: -78651182575680075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar izquierda_16
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 511
+        width: 189
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cc1757987ba83f0800000000000000
+      internalID: -897703374698197867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar izquierda_17
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 511
+        width: 189
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902b0df46163c66d0800000000000000
+      internalID: -2995960182651964919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar izquierda_18
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 255
+        width: 186
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61edde7499df2fe00800000000000000
+      internalID: 1077202095673564694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar izquierda_19
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 255
+        width: 186
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da1a1b2a2276d890800000000000000
+      internalID: -7433628609491100974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar izquierda_20
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 255
+        width: 180
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8723f2e023f5580800000000000000
+      internalID: -8836288907374855948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar izquierda_21
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 255
+        width: 180
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63626fb3c6c7f3570800000000000000
+      internalID: 8448608230274639414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar izquierda_22
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 255
+        width: 175
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a8eee06464adb80800000000000000
+      internalID: -8369299690802476472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar izquierda_23
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 255
+        width: 175
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a9828214e4d45f0800000000000000
+      internalID: -770873919456896379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar izquierda_24
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 164
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c065576513637b0800000000000000
+      internalID: -5244950468620841886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar izquierda_25
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 164
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b16178041d968a50800000000000000
+      internalID: 6523073819659297201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar izquierda_26
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 0
+        width: 164
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a63a394b2b476ce0800000000000000
+      internalID: -1412077308873132376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar izquierda_27
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 0
+        width: 164
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4ed7f2b5b862890800000000000000
+      internalID: -7483140507074435921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar izquierda_28
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 0
+        width: 161
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af2a21ef2cd8c6d0800000000000000
+      internalID: -2969881856051630171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

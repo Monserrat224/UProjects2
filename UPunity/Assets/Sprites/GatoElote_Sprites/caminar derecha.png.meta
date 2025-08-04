@@ -1,0 +1,842 @@
+fileFormatVersion: 2
+guid: 1a33a8e3cf5228b458aa7b692effab05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1587705043922733384
+    second: caminar derecha_0
+  - first:
+      213: -7948446432592339804
+    second: caminar derecha_1
+  - first:
+      213: -6999768780964767813
+    second: caminar derecha_2
+  - first:
+      213: 7498250774914722310
+    second: caminar derecha_3
+  - first:
+      213: -8402591634469990834
+    second: caminar derecha_4
+  - first:
+      213: -8887106895364090535
+    second: caminar derecha_5
+  - first:
+      213: 1692793608558627247
+    second: caminar derecha_6
+  - first:
+      213: 4858935936829357628
+    second: caminar derecha_7
+  - first:
+      213: -1516551083768546501
+    second: caminar derecha_8
+  - first:
+      213: 2821900391317900025
+    second: caminar derecha_9
+  - first:
+      213: -8135060476678652574
+    second: caminar derecha_10
+  - first:
+      213: -4602518566768247095
+    second: caminar derecha_11
+  - first:
+      213: -7323649831555004756
+    second: caminar derecha_12
+  - first:
+      213: -2796784339105773411
+    second: caminar derecha_13
+  - first:
+      213: -33782005621671276
+    second: caminar derecha_14
+  - first:
+      213: 6798910708986303763
+    second: caminar derecha_15
+  - first:
+      213: 5188283331774297727
+    second: caminar derecha_16
+  - first:
+      213: -3299205127435679924
+    second: caminar derecha_17
+  - first:
+      213: -8399596851539488723
+    second: caminar derecha_18
+  - first:
+      213: 4404148898342101792
+    second: caminar derecha_19
+  - first:
+      213: -2277571356505271773
+    second: caminar derecha_20
+  - first:
+      213: -4106652923263779904
+    second: caminar derecha_21
+  - first:
+      213: 7679272856225887250
+    second: caminar derecha_22
+  - first:
+      213: -7422071269340369756
+    second: caminar derecha_23
+  - first:
+      213: -2389806029588350329
+    second: caminar derecha_24
+  - first:
+      213: 5042088185806207619
+    second: caminar derecha_25
+  - first:
+      213: -1196396286088527703
+    second: caminar derecha_26
+  - first:
+      213: -8341552913345123583
+    second: caminar derecha_27
+  - first:
+      213: 4214863396410672414
+    second: caminar derecha_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: caminar derecha_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1023
+        width: 161
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8494c1f4359a80610800000000000000
+      internalID: 1587705043922733384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar derecha_1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1023
+        width: 161
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acdc1d051271b190800000000000000
+      internalID: -7948446432592339804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar derecha_2
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1023
+        width: 160
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7d9bc4163dbde90800000000000000
+      internalID: -6999768780964767813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar derecha_3
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1023
+        width: 160
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ae6933a532f0860800000000000000
+      internalID: 7498250774914722310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar derecha_4
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1023
+        width: 165
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e4fb26d6ff36b80800000000000000
+      internalID: -8402591634469990834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar derecha_5
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1023
+        width: 165
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95516e45d57aaa480800000000000000
+      internalID: -8887106895364090535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar derecha_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 767
+        width: 187
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9403471d20e7710800000000000000
+      internalID: 1692793608558627247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar derecha_7
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 767
+        width: 187
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ef715ad786e6340800000000000000
+      internalID: 4858935936829357628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar derecha_8
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 767
+        width: 195
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bfd3803d024fae0800000000000000
+      internalID: -1516551083768546501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar derecha_9
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 767
+        width: 195
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa0a007477692720800000000000000
+      internalID: 2821900391317900025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar derecha_10
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 767
+        width: 198
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26dbf3d09957a1f80800000000000000
+      internalID: -8135060476678652574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar derecha_11
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 767
+        width: 198
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce73abafb19020c0800000000000000
+      internalID: -4602518566768247095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar derecha_12
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 511
+        width: 196
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca680d2d74b2d5a90800000000000000
+      internalID: -7323649831555004756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar derecha_13
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 511
+        width: 196
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98893a2673df29d0800000000000000
+      internalID: -2796784339105773411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar derecha_14
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 511
+        width: 191
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49abe13e17bf78ff0800000000000000
+      internalID: -33782005621671276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar derecha_15
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 511
+        width: 191
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3155ab484459a5e50800000000000000
+      internalID: 6798910708986303763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar derecha_16
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 511
+        width: 189
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76bc78933c700840800000000000000
+      internalID: 5188283331774297727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar derecha_17
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 511
+        width: 189
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c478c02aa6ed632d0800000000000000
+      internalID: -3299205127435679924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar derecha_18
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 255
+        width: 186
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20df7f9a23ae6b80800000000000000
+      internalID: -8399596851539488723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar derecha_19
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 255
+        width: 186
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023eb9fb61eae1d30800000000000000
+      internalID: 4404148898342101792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar derecha_20
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 255
+        width: 180
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32216e81be07460e0800000000000000
+      internalID: -2277571356505271773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar derecha_21
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 255
+        width: 180
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbfa0d9cec3207c0800000000000000
+      internalID: -4106652923263779904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar derecha_22
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 255
+        width: 175
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214b4a8e9f1429a60800000000000000
+      internalID: 7679272856225887250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar derecha_23
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 255
+        width: 175
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aca55d11818ff890800000000000000
+      internalID: -7422071269340369756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar derecha_24
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 164
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78abc4ce314b5ded0800000000000000
+      internalID: -2389806029588350329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar derecha_25
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 164
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a3c29ad7819f540800000000000000
+      internalID: 5042088185806207619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar derecha_26
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 0
+        width: 164
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0c815aaeb856fe0800000000000000
+      internalID: -1196396286088527703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar derecha_27
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 164
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b60fc12d9dc3c80800000000000000
+      internalID: -8341552913345123583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar derecha_28
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 0
+        width: 161
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15cadf7de33e7a30800000000000000
+      internalID: 4214863396410672414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -8,6 +8,21 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 5619232860d667d47887e04cdcdd48e8
+  - enabled: 1
+    path: Assets/Scenes/PantallaSeleccion.unity
+    guid: 359eaed16f038bc48b1a80edc9b268f8
+  - enabled: 1
+    path: Assets/Scenes/Personajes.unity
+    guid: ae5796cf608351e4d8d8d1ef0793d6ac
+  - enabled: 1
+    path: Assets/Scenes/Historia.unity
+    guid: c45afc47028105d4bbffa79addb15dcc
+  - enabled: 1
+    path: Assets/Scenes/Juego.unity
+    guid: 349b07fb1cd8fe243a63ca91b79b3c44
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

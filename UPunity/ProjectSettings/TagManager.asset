@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Enemigo
   layers:
   - Default
   - TransparentFX
@@ -11,10 +12,10 @@ TagManager:
   - 
   - Water
   - UI
+  - Piso
   - 
   - 
-  - piso
-  - player
+  - 
   - 
   - 
   - 
@@ -38,20 +39,14 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: FONDO
-    uniqueID: 2204602401
-    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: UI
-    uniqueID: 1706116915
+  - name: Fondo
+    uniqueID: 3258783727
     locked: 0
-  - name: personajes
-    uniqueID: 2086086305
-    locked: 0
-  - name: PISO
-    uniqueID: 403268565
+  - name: Personajes
+    uniqueID: 1808347473
     locked: 0
   m_RenderingLayers:
   - Default

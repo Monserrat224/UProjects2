@@ -1,0 +1,1142 @@
+fileFormatVersion: 2
+guid: b610af6280fd44145be527a7830c3bb3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2341693348614206060
+    second: salto miua_0
+  - first:
+      213: 4406013025541334480
+    second: salto miua_1
+  - first:
+      213: -3406358417903662220
+    second: salto miua_2
+  - first:
+      213: 9087579416222383466
+    second: salto miua_3
+  - first:
+      213: -1299485897371529300
+    second: salto miua_4
+  - first:
+      213: -1541075786179475854
+    second: salto miua_5
+  - first:
+      213: -6292546695520081307
+    second: salto miua_6
+  - first:
+      213: 4314040718635043683
+    second: salto miua_7
+  - first:
+      213: 4837570911782355623
+    second: salto miua_8
+  - first:
+      213: -3759407300205426794
+    second: salto miua_9
+  - first:
+      213: 7461407617034737122
+    second: salto miua_10
+  - first:
+      213: -5419912234757982593
+    second: salto miua_11
+  - first:
+      213: 1984738564248391545
+    second: salto miua_12
+  - first:
+      213: -4198395074514671889
+    second: salto miua_13
+  - first:
+      213: 3091631857126443532
+    second: salto miua_14
+  - first:
+      213: -7137203749679000308
+    second: salto miua_15
+  - first:
+      213: 4124949746946637601
+    second: salto miua_16
+  - first:
+      213: -5802517976141687569
+    second: salto miua_17
+  - first:
+      213: 7771155279960160815
+    second: salto miua_18
+  - first:
+      213: -5347666225438617204
+    second: salto miua_19
+  - first:
+      213: -5006566734750677583
+    second: salto miua_20
+  - first:
+      213: 1771126298919496272
+    second: salto miua_21
+  - first:
+      213: 6458088085263727580
+    second: salto miua_22
+  - first:
+      213: -2323967292711536923
+    second: salto miua_23
+  - first:
+      213: 8870887720971817433
+    second: salto miua_24
+  - first:
+      213: 5110704887549913240
+    second: salto miua_25
+  - first:
+      213: 1775775624226018944
+    second: salto miua_26
+  - first:
+      213: -6339841190536233543
+    second: salto miua_27
+  - first:
+      213: 1522189263456095258
+    second: salto miua_28
+  - first:
+      213: 3519351398674182486
+    second: salto miua_29
+  - first:
+      213: 6018062084022843587
+    second: salto miua_30
+  - first:
+      213: 2196575335781099707
+    second: salto miua_31
+  - first:
+      213: 684564987769740879
+    second: salto miua_32
+  - first:
+      213: -2973547844747460975
+    second: salto miua_33
+  - first:
+      213: 5224012135740333531
+    second: salto miua_34
+  - first:
+      213: -6346926282960677652
+    second: salto miua_35
+  - first:
+      213: 8442990594741646827
+    second: salto miua_36
+  - first:
+      213: -2040671736667714722
+    second: salto miua_37
+  - first:
+      213: 644065384749900454
+    second: salto miua_38
+  - first:
+      213: 3108820020495944595
+    second: salto miua_39
+  - first:
+      213: -5625445033354251040
+    second: salto miua_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: salto miua_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1279
+        width: 161
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c627b0991bd5f7020800000000000000
+      internalID: 2341693348614206060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1279
+        width: 161
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5a22fa08d452d30800000000000000
+      internalID: 4406013025541334480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_2
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1279
+        width: 155
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bc03b011f2ab0d0800000000000000
+      internalID: -3406358417903662220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_3
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1279
+        width: 155
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d361cb4519d1e70800000000000000
+      internalID: 9087579416222383466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_4
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1279
+        width: 175
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf4a88167c47fde0800000000000000
+      internalID: -1299485897371529300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_5
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1279
+        width: 175
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27601d8ccbffc9ae0800000000000000
+      internalID: -1541075786179475854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1023
+        width: 162
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56aa7f8ae126ca8a0800000000000000
+      internalID: -6292546695520081307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_7
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1023
+        width: 162
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b00d44d2d8edb30800000000000000
+      internalID: 4314040718635043683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_8
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 797
+        width: 192
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2cc8c1d11822340800000000000000
+      internalID: 4837570911782355623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_9
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 797
+        width: 192
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697ce398af6e3dbc0800000000000000
+      internalID: -3759407300205426794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_10
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1041
+        width: 176
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5dfb902be3c8760800000000000000
+      internalID: 7461407617034737122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_11
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1041
+        width: 176
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76f475d98a98c4b0800000000000000
+      internalID: -5419912234757982593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_12
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 797
+        width: 187
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f4b0665353b8b10800000000000000
+      internalID: 1984738564248391545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_13
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 797
+        width: 187
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6adcc7ced4cb5c0800000000000000
+      internalID: -4198395074514671889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_14
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 797
+        width: 194
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a8d4c3bcea7ea20800000000000000
+      internalID: 3091631857126443532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_15
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 797
+        width: 194
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c051cc2110f83fc90800000000000000
+      internalID: -7137203749679000308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_16
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 541
+        width: 183
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f771f90f3ce3930800000000000000
+      internalID: 4124949746946637601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_17
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 635
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4914dc4a0597fa0800000000000000
+      internalID: -5802517976141687569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_18
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 541
+        width: 183
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a3d64cd80b8db60800000000000000
+      internalID: 7771155279960160815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_19
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 635
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81906fa6e549c5b0800000000000000
+      internalID: -5347666225438617204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_20
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 522
+        width: 181
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b506e6a41a158ab0800000000000000
+      internalID: -5006566734750677583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_21
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 635
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ae27b2cfd449810800000000000000
+      internalID: 1771126298919496272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_22
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 522
+        width: 181
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbb35aa5ecbf9950800000000000000
+      internalID: 6458088085263727580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_23
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 635
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e67d486f0c9fbfd0800000000000000
+      internalID: -2323967292711536923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_24
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 511
+        width: 188
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d156ead169bb1b70800000000000000
+      internalID: 8870887720971817433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_25
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 635
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898e34e740fdce640800000000000000
+      internalID: 5110704887549913240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_26
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 511
+        width: 188
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0861ac29582d4a810800000000000000
+      internalID: 1775775624226018944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_27
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 635
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdb2b1f60c5408a0800000000000000
+      internalID: -6339841190536233543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_28
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 255
+        width: 189
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cc639f117ef1510800000000000000
+      internalID: 1522189263456095258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_29
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 379
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651bfb5637f37d030800000000000000
+      internalID: 3519351398674182486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_30
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 255
+        width: 189
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8bd629493748350800000000000000
+      internalID: 6018062084022843587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_31
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 379
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8ed9341adcb7e10800000000000000
+      internalID: 2196575335781099707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_32
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 255
+        width: 196
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e5fa9ba30108900800000000000000
+      internalID: 684564987769740879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_33
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 379
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ef23f5df5dbb6d0800000000000000
+      internalID: -2973547844747460975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_34
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 255
+        width: 196
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddd1250c5b6f7840800000000000000
+      internalID: 5224012135740333531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_35
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 379
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4d9805c203be7a0800000000000000
+      internalID: -6346926282960677652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_36
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 255
+        width: 199
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be53a8986378b2570800000000000000
+      internalID: 8442990594741646827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_37
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 255
+        width: 199
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bcdb01ed31ea3e0800000000000000
+      internalID: -2040671736667714722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_38
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 181
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2a4261e0e20f800800000000000000
+      internalID: 644065384749900454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_39
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 123
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b8840665fb42b20800000000000000
+      internalID: 3108820020495944595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto miua_40
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 63
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e43f6b0c876ee1b0800000000000000
+      internalID: -5625445033354251040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

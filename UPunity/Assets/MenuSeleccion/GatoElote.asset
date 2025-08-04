@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31ee1abc66893944f916aa5d57be0602, type: 3}
+  m_Name: GatoElote
+  m_EditorClassIdentifier: 
+  personajeJugable: {fileID: 671826796314580596, guid: 5393fe5308194e446b7ca9e08ed36795, type: 3}
+  imagen: {fileID: 7145653102689453164, guid: a41cf7c8269d19349839b63967aa867f, type: 3}
+  nombre: Gato Elote

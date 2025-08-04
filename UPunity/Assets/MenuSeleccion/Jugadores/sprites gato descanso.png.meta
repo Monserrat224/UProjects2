@@ -1,0 +1,2492 @@
+fileFormatVersion: 2
+guid: a41cf7c8269d19349839b63967aa867f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7145653102689453164
+    second: sprites gato descanso_0
+  - first:
+      213: 1232767913484846770
+    second: sprites gato descanso_1
+  - first:
+      213: 2817759779134185464
+    second: sprites gato descanso_2
+  - first:
+      213: -1927313990364348137
+    second: sprites gato descanso_3
+  - first:
+      213: 3485214151340769754
+    second: sprites gato descanso_4
+  - first:
+      213: -3931166767045422514
+    second: sprites gato descanso_5
+  - first:
+      213: -559075963838121020
+    second: sprites gato descanso_6
+  - first:
+      213: -841919281119518469
+    second: sprites gato descanso_7
+  - first:
+      213: 1313853466434862819
+    second: sprites gato descanso_8
+  - first:
+      213: 3268325413408320169
+    second: sprites gato descanso_9
+  - first:
+      213: 2568945015868375434
+    second: sprites gato descanso_10
+  - first:
+      213: -1394762622321724519
+    second: sprites gato descanso_11
+  - first:
+      213: -5573968345389459390
+    second: sprites gato descanso_12
+  - first:
+      213: -3170711707015260407
+    second: sprites gato descanso_13
+  - first:
+      213: 8937109831906032503
+    second: sprites gato descanso_14
+  - first:
+      213: -5891059675492215887
+    second: sprites gato descanso_15
+  - first:
+      213: 6611452883583431527
+    second: sprites gato descanso_16
+  - first:
+      213: 5879732110846350488
+    second: sprites gato descanso_17
+  - first:
+      213: 3737545779549751718
+    second: sprites gato descanso_18
+  - first:
+      213: -6087415231991731364
+    second: sprites gato descanso_19
+  - first:
+      213: -975250777704366821
+    second: sprites gato descanso_20
+  - first:
+      213: 2359713360471039043
+    second: sprites gato descanso_21
+  - first:
+      213: 811454876124392478
+    second: sprites gato descanso_22
+  - first:
+      213: -2816457009411450891
+    second: sprites gato descanso_23
+  - first:
+      213: -7517053372304764208
+    second: sprites gato descanso_24
+  - first:
+      213: -2514208056364976952
+    second: sprites gato descanso_25
+  - first:
+      213: 7592651408521929298
+    second: sprites gato descanso_26
+  - first:
+      213: -2080908307677677068
+    second: sprites gato descanso_27
+  - first:
+      213: 8232572239268458183
+    second: sprites gato descanso_28
+  - first:
+      213: 6165674744029080571
+    second: sprites gato descanso_29
+  - first:
+      213: 7081765485715316058
+    second: sprites gato descanso_30
+  - first:
+      213: -1050965806745868620
+    second: sprites gato descanso_31
+  - first:
+      213: 5281281357882183941
+    second: sprites gato descanso_32
+  - first:
+      213: -3181841815056845803
+    second: sprites gato descanso_33
+  - first:
+      213: 5785428322862642958
+    second: sprites gato descanso_34
+  - first:
+      213: -6432156593863956412
+    second: sprites gato descanso_35
+  - first:
+      213: -9163074759926109932
+    second: sprites gato descanso_36
+  - first:
+      213: -166195051616955557
+    second: sprites gato descanso_37
+  - first:
+      213: -3685635600104469919
+    second: sprites gato descanso_38
+  - first:
+      213: -962538488265816056
+    second: sprites gato descanso_39
+  - first:
+      213: 6624175429052719260
+    second: sprites gato descanso_40
+  - first:
+      213: -3105457972750400084
+    second: sprites gato descanso_41
+  - first:
+      213: -1040696284294758023
+    second: sprites gato descanso_42
+  - first:
+      213: -788971636268036573
+    second: sprites gato descanso_43
+  - first:
+      213: 6192368880477173150
+    second: sprites gato descanso_44
+  - first:
+      213: -3784320384970067204
+    second: sprites gato descanso_45
+  - first:
+      213: 4359491152482242586
+    second: sprites gato descanso_46
+  - first:
+      213: -5821263558920527453
+    second: sprites gato descanso_47
+  - first:
+      213: -624909505153878342
+    second: sprites gato descanso_48
+  - first:
+      213: -4450331731530839524
+    second: sprites gato descanso_49
+  - first:
+      213: -5708242188729543981
+    second: sprites gato descanso_50
+  - first:
+      213: 7581185216414661416
+    second: sprites gato descanso_51
+  - first:
+      213: -7105632203801211779
+    second: sprites gato descanso_52
+  - first:
+      213: -5334507465968376730
+    second: sprites gato descanso_53
+  - first:
+      213: -3624940565210860272
+    second: sprites gato descanso_54
+  - first:
+      213: -538589008604577135
+    second: sprites gato descanso_55
+  - first:
+      213: 1464763244456688706
+    second: sprites gato descanso_56
+  - first:
+      213: -3506087481727586379
+    second: sprites gato descanso_57
+  - first:
+      213: 5513248110610167281
+    second: sprites gato descanso_58
+  - first:
+      213: -1785410088374310433
+    second: sprites gato descanso_59
+  - first:
+      213: 3633115811717254205
+    second: sprites gato descanso_60
+  - first:
+      213: -1334766760510024895
+    second: sprites gato descanso_61
+  - first:
+      213: 4974412375448572663
+    second: sprites gato descanso_62
+  - first:
+      213: -8798159483768277554
+    second: sprites gato descanso_63
+  - first:
+      213: 6451180017410863691
+    second: sprites gato descanso_64
+  - first:
+      213: 2924099159198478057
+    second: sprites gato descanso_65
+  - first:
+      213: 1071528039427128282
+    second: sprites gato descanso_66
+  - first:
+      213: -8457225745700788618
+    second: sprites gato descanso_67
+  - first:
+      213: -3600487685313675831
+    second: sprites gato descanso_68
+  - first:
+      213: 1312406888395493882
+    second: sprites gato descanso_69
+  - first:
+      213: -8550698280830652975
+    second: sprites gato descanso_70
+  - first:
+      213: -3489874733472107145
+    second: sprites gato descanso_71
+  - first:
+      213: -8737331508201169558
+    second: sprites gato descanso_72
+  - first:
+      213: -4359986273779756061
+    second: sprites gato descanso_73
+  - first:
+      213: -8610290606872493253
+    second: sprites gato descanso_74
+  - first:
+      213: -33693031678332522
+    second: sprites gato descanso_75
+  - first:
+      213: -9003405571039120502
+    second: sprites gato descanso_76
+  - first:
+      213: -1804837350903831798
+    second: sprites gato descanso_77
+  - first:
+      213: 9042102597622764544
+    second: sprites gato descanso_78
+  - first:
+      213: -4805825463780686161
+    second: sprites gato descanso_79
+  - first:
+      213: -8069585347692089784
+    second: sprites gato descanso_80
+  - first:
+      213: -3910223719541054692
+    second: sprites gato descanso_81
+  - first:
+      213: 3742355203667755293
+    second: sprites gato descanso_82
+  - first:
+      213: -8440407271376914527
+    second: sprites gato descanso_83
+  - first:
+      213: 7982549502158532293
+    second: sprites gato descanso_84
+  - first:
+      213: -3954639431493007833
+    second: sprites gato descanso_85
+  - first:
+      213: 7837591397509430016
+    second: sprites gato descanso_86
+  - first:
+      213: -2159535911083723253
+    second: sprites gato descanso_87
+  - first:
+      213: -566412097154610571
+    second: sprites gato descanso_88
+  - first:
+      213: -7375278788921230968
+    second: sprites gato descanso_89
+  - first:
+      213: -6387538792847462635
+    second: sprites gato descanso_90
+  - first:
+      213: -1639017215521529150
+    second: sprites gato descanso_91
+  - first:
+      213: -132293600630563060
+    second: sprites gato descanso_92
+  - first:
+      213: -1005686591838158539
+    second: sprites gato descanso_93
+  - first:
+      213: 659289026006883946
+    second: sprites gato descanso_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprites gato descanso_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2047
+        width: 161
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6409f933a57a2360800000000000000
+      internalID: 7145653102689453164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 2047
+        width: 161
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b683c5c2ebab1110800000000000000
+      internalID: 1232767913484846770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_2
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 2047
+        width: 161
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff1da90791ba1720800000000000000
+      internalID: 2817759779134185464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_3
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 2047
+        width: 159
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71141b9132ec045e0800000000000000
+      internalID: -1927313990364348137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_4
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 2047
+        width: 159
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1c4d02ec7fd5030800000000000000
+      internalID: 3485214151340769754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_5
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 2047
+        width: 159
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42df6157a0b179c0800000000000000
+      internalID: -3931166767045422514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_6
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 2047
+        width: 166
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb38fc7f53cd38f0800000000000000
+      internalID: -559075963838121020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_7
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 2047
+        width: 166
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0a15fdfd6e054f0800000000000000
+      internalID: -841919281119518469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_8
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 2047
+        width: 166
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eef3c144cebb3210800000000000000
+      internalID: 1313853466434862819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_9
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 2047
+        width: 168
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aaa59ca5ac6b5d20800000000000000
+      internalID: 3268325413408320169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1791
+        width: 168
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81485e81e9b6a320800000000000000
+      internalID: 2568945015868375434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_11
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1791
+        width: 168
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9937586e8cec4ace0800000000000000
+      internalID: -1394762622321724519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_12
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1791
+        width: 168
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2481acf625945a2b0800000000000000
+      internalID: -5573968345389459390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_13
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1791
+        width: 168
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907de2a608e5ff3d0800000000000000
+      internalID: -3170711707015260407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_14
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1791
+        width: 168
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bf8619a0ef60c70800000000000000
+      internalID: 8937109831906032503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_15
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1791
+        width: 170
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b398a3ff60ce3ea0800000000000000
+      internalID: -5891059675492215887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_16
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 1791
+        width: 170
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763f83f5e5990cb50800000000000000
+      internalID: 6611452883583431527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_17
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 1791
+        width: 170
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8945471e331099150800000000000000
+      internalID: 5879732110846350488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_18
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 1791
+        width: 170
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9c2d9851e6ed330800000000000000
+      internalID: 3737545779549751718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_19
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 1791
+        width: 170
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ba4d85918258ba0800000000000000
+      internalID: -6087415231991731364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1535
+        width: 170
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1df104b5963772f0800000000000000
+      internalID: -975250777704366821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_21
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1535
+        width: 172
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c9e9e8cc26fb020800000000000000
+      internalID: 2359713360471039043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_22
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1535
+        width: 172
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c27aa19edd24b00800000000000000
+      internalID: 811454876124392478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_23
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1535
+        width: 172
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f71fdca54fe9e8d0800000000000000
+      internalID: -2816457009411450891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_24
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1535
+        width: 171
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d25f12f8cf0ea790800000000000000
+      internalID: -7517053372304764208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_25
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1535
+        width: 171
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4b0f4f71dbb1dd0800000000000000
+      internalID: -2514208056364976952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_26
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1535
+        width: 171
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252a15c7a348e5960800000000000000
+      internalID: 7592651408521929298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_27
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1535
+        width: 171
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f976b65be02f13e0800000000000000
+      internalID: -2080908307677677068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_28
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 1535
+        width: 171
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cea65565d8ff3270800000000000000
+      internalID: 8232572239268458183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_29
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 1535
+        width: 171
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb63763380e09550800000000000000
+      internalID: 6165674744029080571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_30
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1279
+        width: 167
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ddeae303c774260800000000000000
+      internalID: 7081765485715316058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_31
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1279
+        width: 167
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6a4d1ca283a61f0800000000000000
+      internalID: -1050965806745868620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_32
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1279
+        width: 167
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501d57fd961ea4940800000000000000
+      internalID: 5281281357882183941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_33
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1279
+        width: 165
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5147d023ab3d7d3d0800000000000000
+      internalID: -3181841815056845803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_34
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1279
+        width: 165
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0736b93868f94050800000000000000
+      internalID: 5785428322862642958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_35
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1279
+        width: 165
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4486d0b28a36cb6a0800000000000000
+      internalID: -6432156593863956412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_36
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 1279
+        width: 168
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419a14ccd0836d080800000000000000
+      internalID: -9163074759926109932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_37
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1279
+        width: 168
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5391f82b7e81bdf0800000000000000
+      internalID: -166195051616955557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_38
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 1279
+        width: 168
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a4d34f2fdf9dcc0800000000000000
+      internalID: -3685635600104469919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_39
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 1279
+        width: 168
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808464c385064a2f0800000000000000
+      internalID: -962538488265816056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_40
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 1412
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90ee82d47ccdeb50800000000000000
+      internalID: 6624175429052719260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_41
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 1402
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5ce4d5d6237e4d0800000000000000
+      internalID: -3105457972750400084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_42
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1023
+        width: 168
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971ca874e34be81f0800000000000000
+      internalID: -1040696284294758023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_43
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1156
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e826a1a720d05f0800000000000000
+      internalID: -788971636268036573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_44
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1023
+        width: 168
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95760f20b6bfe550800000000000000
+      internalID: 6192368880477173150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_45
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1156
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2f699f8a46b7bc0800000000000000
+      internalID: -3784320384970067204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_46
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1023
+        width: 169
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1099290b16008c30800000000000000
+      internalID: 4359491152482242586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_47
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1023
+        width: 169
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1ad92b2a7b63fa0800000000000000
+      internalID: -5821263558920527453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_48
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1023
+        width: 169
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6b980bd10e357f0800000000000000
+      internalID: -624909505153878342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_49
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1023
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a84797ede3d32c0800000000000000
+      internalID: -4450331731530839524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_50
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1023
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d290e019ff38c0b0800000000000000
+      internalID: -5708242188729543981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_51
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 1023
+        width: 175
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bb6d899c7c53960800000000000000
+      internalID: 7581185216414661416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_52
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 1023
+        width: 166
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c4adb6829b36d90800000000000000
+      internalID: -7105632203801211779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_53
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 1023
+        width: 166
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664294f19b508f5b0800000000000000
+      internalID: -5334507465968376730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_54
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1146
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015f3bef2cf91bdc0800000000000000
+      internalID: -3624940565210860272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_55
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1146
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192c136762c8688f0800000000000000
+      internalID: -538589008604577135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_56
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 767
+        width: 166
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24cb3e10962e35410800000000000000
+      internalID: 1464763244456688706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_57
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 500
+        width: 162
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfee2ce200e75fc0800000000000000
+      internalID: -3506087481727586379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_58
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 767
+        width: 168
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5338732fdf28c40800000000000000
+      internalID: 5513248110610167281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_59
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 500
+        width: 162
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9ec00fbf2f837e0800000000000000
+      internalID: -1785410088374310433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_60
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 767
+        width: 168
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c0349e49b6b6230800000000000000
+      internalID: 3633115811717254205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_61
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 511
+        width: 162
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1431dc504b4f97de0800000000000000
+      internalID: -1334766760510024895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_62
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 511
+        width: 165
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f25bec23b9a80540800000000000000
+      internalID: 4974412375448572663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_63
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 767
+        width: 168
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5f1cc6098a6e580800000000000000
+      internalID: -8798159483768277554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_64
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 511
+        width: 165
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b427fd7cb02378950800000000000000
+      internalID: 6451180017410863691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_65
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 767
+        width: 162
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee2b0851bc749820800000000000000
+      internalID: 2924099159198478057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_66
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 511
+        width: 165
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbbcec1315dede00800000000000000
+      internalID: 1071528039427128282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_67
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 767
+        width: 162
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676673a1ef5e1aa80800000000000000
+      internalID: -8457225745700788618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_68
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 511
+        width: 166
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdb5b2c68f780ec0800000000000000
+      internalID: -3600487685313675831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_69
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 767
+        width: 162
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1d69f8c1b963210800000000000000
+      internalID: 1312406888395493882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_70
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 511
+        width: 166
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddab859731d55980800000000000000
+      internalID: -8550698280830652975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_71
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 767
+        width: 162
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775b8c88b69719fc0800000000000000
+      internalID: -3489874733472107145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_72
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 511
+        width: 166
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d57d02943ceb680800000000000000
+      internalID: -8737331508201169558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_73
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 767
+        width: 162
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e357cd85973e73c0800000000000000
+      internalID: -4359986273779756061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_74
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 756
+        width: 162
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b338b74ff4a128880800000000000000
+      internalID: -8610290606872493253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_75
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 511
+        width: 166
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691386fbd5c488ff0800000000000000
+      internalID: -33693031678332522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_76
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 255
+        width: 166
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83b071d55a7d0380800000000000000
+      internalID: -9003405571039120502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_77
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 255
+        width: 166
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a032506edfde3f6e0800000000000000
+      internalID: -1804837350903831798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_78
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 255
+        width: 166
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00411f9c7600c7d70800000000000000
+      internalID: 9042102597622764544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_79
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 255
+        width: 166
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa643daf3374e4db0800000000000000
+      internalID: -4805825463780686161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_80
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 255
+        width: 166
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ead1a71e2130090800000000000000
+      internalID: -8069585347692089784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_81
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 255
+        width: 165
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13e27c8e381cb9c0800000000000000
+      internalID: -3910223719541054692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_82
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 255
+        width: 165
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1183f9da348fe330800000000000000
+      internalID: 3742355203667755293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_83
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 255
+        width: 165
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a774fd4e46adda80800000000000000
+      internalID: -8440407271376914527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_84
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 255
+        width: 162
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce61269a76b7ce60800000000000000
+      internalID: 7982549502158532293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_85
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 255
+        width: 162
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7264b1fb36c4e19c0800000000000000
+      internalID: -3954639431493007833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_86
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 162
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bf437c9d7b4cc60800000000000000
+      internalID: 7837591397509430016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_87
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 0
+        width: 162
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06b724d789c702e0800000000000000
+      internalID: -2159535911083723253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_88
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 162
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a8d98d233b328f0800000000000000
+      internalID: -566412097154610571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_89
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 0
+        width: 162
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88970e2740fb5a990800000000000000
+      internalID: -7375278788921230968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_90
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 0
+        width: 162
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fac4f7f47ea57a0800000000000000
+      internalID: -6387538792847462635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_91
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 0
+        width: 162
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2e610c68a0149e0800000000000000
+      internalID: -1639017215521529150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_92
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 0
+        width: 162
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f9b50dbaff92ef0800000000000000
+      internalID: -132293600630563060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_93
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 0
+        width: 163
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5310d128f551b02f0800000000000000
+      internalID: -1005686591838158539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites gato descanso_94
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 0
+        width: 163
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e147740e3462900800000000000000
+      internalID: 659289026006883946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
