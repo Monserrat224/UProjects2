@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MONSE\\Documents\\Uprojects\\uprojects corrupto\\UProjectsmal\\UPunity2mal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0975C957-1781-F5E2-322C-27156F279EF3}|Assembly-CSharp.csproj|C:\\Users\\MONSE\\Documents\\Uprojects\\uprojects corrupto\\UProjectsmal\\UPunity2mal\\assets\\4 scripts\\pantallaseleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0975C957-1781-F5E2-322C-27156F279EF3}|Assembly-CSharp.csproj|solutionrelative:assets\\4 scripts\\pantallaseleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0975C957-1781-F5E2-322C-27156F279EF3}|Assembly-CSharp.csproj|C:\\Users\\MONSE\\Documents\\Uprojects\\uprojects corrupto\\UProjectsmal\\UPunity2mal\\assets\\4 scripts\\combatejugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0975C957-1781-F5E2-322C-27156F279EF3}|Assembly-CSharp.csproj|solutionrelative:assets\\4 scripts\\combatejugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0975C957-1781-F5E2-322C-27156F279EF3}|Assembly-CSharp.csproj|C:\\Users\\MONSE\\Documents\\Uprojects\\uprojects corrupto\\UProjectsmal\\UPunity2mal\\assets\\4 scripts\\movimientojugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0975C957-1781-F5E2-322C-27156F279EF3}|Assembly-CSharp.csproj|solutionrelative:assets\\4 scripts\\movimientojugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0975C957-1781-F5E2-322C-27156F279EF3}|Assembly-CSharp.csproj|c:\\users\\monse\\documents\\uprojects\\uprojects corrupto\\uprojectsmal\\upunity2mal\\assets\\4 scripts\\jefe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0975C957-1781-F5E2-322C-27156F279EF3}|Assembly-CSharp.csproj|solutionrelative:assets\\4 scripts\\jefe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0975C957-1781-F5E2-322C-27156F279EF3}|Assembly-CSharp.csproj|C:\\Users\\MONSE\\Documents\\Uprojects\\uprojects corrupto\\UProjectsmal\\UPunity2mal\\assets\\4 scripts\\combatecac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0975C957-1781-F5E2-322C-27156F279EF3}|Assembly-CSharp.csproj|solutionrelative:assets\\4 scripts\\combatecac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0975C957-1781-F5E2-322C-27156F279EF3}|Assembly-CSharp.csproj|C:\\Users\\MONSE\\Documents\\Uprojects\\uprojects corrupto\\UProjectsmal\\UPunity2mal\\assets\\seguirjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0975C957-1781-F5E2-322C-27156F279EF3}|Assembly-CSharp.csproj|solutionrelative:assets\\seguirjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0975C957-1781-F5E2-322C-27156F279EF3}|Assembly-CSharp.csproj|C:\\Users\\MONSE\\Documents\\Uprojects\\uprojects corrupto\\UProjectsmal\\UPunity2mal\\assets\\jefecaminarbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0975C957-1781-F5E2-322C-27156F279EF3}|Assembly-CSharp.csproj|solutionrelative:assets\\jefecaminarbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PantallaSeleccion.cs",
+              "DocumentMoniker": "C:\\Users\\MONSE\\Documents\\Uprojects\\uprojects corrupto\\UProjectsmal\\UPunity2mal\\Assets\\4 Scripts\\PantallaSeleccion.cs",
+              "RelativeDocumentMoniker": "Assets\\4 Scripts\\PantallaSeleccion.cs",
+              "ToolTip": "C:\\Users\\MONSE\\Documents\\Uprojects\\uprojects corrupto\\UProjectsmal\\UPunity2mal\\Assets\\4 Scripts\\PantallaSeleccion.cs",
+              "RelativeToolTip": "Assets\\4 Scripts\\PantallaSeleccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T01:37:43.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Jefe.cs",
+              "DocumentMoniker": "C:\\Users\\MONSE\\Documents\\Uprojects\\uprojects corrupto\\UProjectsmal\\UPunity2mal\\Assets\\4 Scripts\\Jefe.cs",
+              "RelativeDocumentMoniker": "Assets\\4 Scripts\\Jefe.cs",
+              "ToolTip": "C:\\Users\\MONSE\\Documents\\Uprojects\\uprojects corrupto\\UProjectsmal\\UPunity2mal\\Assets\\4 Scripts\\Jefe.cs",
+              "RelativeToolTip": "Assets\\4 Scripts\\Jefe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T13:06:14.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovimientoJugador.cs",
+              "DocumentMoniker": "C:\\Users\\MONSE\\Documents\\Uprojects\\uprojects corrupto\\UProjectsmal\\UPunity2mal\\Assets\\4 Scripts\\MovimientoJugador.cs",
+              "RelativeDocumentMoniker": "Assets\\4 Scripts\\MovimientoJugador.cs",
+              "ToolTip": "C:\\Users\\MONSE\\Documents\\Uprojects\\uprojects corrupto\\UProjectsmal\\UPunity2mal\\Assets\\4 Scripts\\MovimientoJugador.cs",
+              "RelativeToolTip": "Assets\\4 Scripts\\MovimientoJugador.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowHIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T21:17:17.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CombateJugador.cs",
+              "DocumentMoniker": "C:\\Users\\MONSE\\Documents\\Uprojects\\uprojects corrupto\\UProjectsmal\\UPunity2mal\\Assets\\4 Scripts\\CombateJugador.cs",
+              "RelativeDocumentMoniker": "Assets\\4 Scripts\\CombateJugador.cs",
+              "ToolTip": "C:\\Users\\MONSE\\Documents\\Uprojects\\uprojects corrupto\\UProjectsmal\\UPunity2mal\\Assets\\4 Scripts\\CombateJugador.cs",
+              "RelativeToolTip": "Assets\\4 Scripts\\CombateJugador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T21:18:10.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CombateCaC.cs",
+              "DocumentMoniker": "C:\\Users\\MONSE\\Documents\\Uprojects\\uprojects corrupto\\UProjectsmal\\UPunity2mal\\Assets\\4 Scripts\\CombateCaC.cs",
+              "RelativeDocumentMoniker": "Assets\\4 Scripts\\CombateCaC.cs",
+              "ToolTip": "C:\\Users\\MONSE\\Documents\\Uprojects\\uprojects corrupto\\UProjectsmal\\UPunity2mal\\Assets\\4 Scripts\\CombateCaC.cs",
+              "RelativeToolTip": "Assets\\4 Scripts\\CombateCaC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T21:08:35.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeguirJugador.cs",
+              "DocumentMoniker": "C:\\Users\\MONSE\\Documents\\Uprojects\\uprojects corrupto\\UProjectsmal\\UPunity2mal\\Assets\\SeguirJugador.cs",
+              "RelativeDocumentMoniker": "Assets\\SeguirJugador.cs",
+              "ToolTip": "C:\\Users\\MONSE\\Documents\\Uprojects\\uprojects corrupto\\UProjectsmal\\UPunity2mal\\Assets\\SeguirJugador.cs",
+              "RelativeToolTip": "Assets\\SeguirJugador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T17:22:16.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JefeCaminarBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\MONSE\\Documents\\Uprojects\\uprojects corrupto\\UProjectsmal\\UPunity2mal\\Assets\\JefeCaminarBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\JefeCaminarBehaviour.cs",
+              "ToolTip": "C:\\Users\\MONSE\\Documents\\Uprojects\\uprojects corrupto\\UProjectsmal\\UPunity2mal\\Assets\\JefeCaminarBehaviour.cs",
+              "RelativeToolTip": "Assets\\JefeCaminarBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:21:15.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

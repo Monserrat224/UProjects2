@@ -1,0 +1,3718 @@
+fileFormatVersion: 2
+guid: 739220ac524e43448bdb049cbd1f7a9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3229205604646249805
+    second: miau_attack2effect_0
+  - first:
+      213: 4312781703112180584
+    second: miau_attack2effect_1
+  - first:
+      213: -3571897434330850506
+    second: miau_attack2effect_2
+  - first:
+      213: -1002545434456772683
+    second: miau_attack2effect_3
+  - first:
+      213: 4531122448892160010
+    second: miau_attack2effect_4
+  - first:
+      213: -2915826512626439459
+    second: miau_attack2effect_5
+  - first:
+      213: -7596189346463172021
+    second: miau_attack2effect_6
+  - first:
+      213: -9046592191963024235
+    second: miau_attack2effect_7
+  - first:
+      213: -3585519158060716163
+    second: miau_attack2effect_8
+  - first:
+      213: 4615139481765899351
+    second: miau_attack2effect_9
+  - first:
+      213: 8598155006342566592
+    second: miau_attack2effect_10
+  - first:
+      213: 143871828072348253
+    second: miau_attack2effect_11
+  - first:
+      213: 8459520217764509352
+    second: miau_attack2effect_12
+  - first:
+      213: -2626352515292215045
+    second: miau_attack2effect_13
+  - first:
+      213: -8604680824711575818
+    second: miau_attack2effect_14
+  - first:
+      213: -2996985117187385496
+    second: miau_attack2effect_15
+  - first:
+      213: -5535760558755975714
+    second: miau_attack2effect_16
+  - first:
+      213: -2994685158716288660
+    second: miau_attack2effect_17
+  - first:
+      213: 459634279209219790
+    second: miau_attack2effect_18
+  - first:
+      213: 1281637744779952209
+    second: miau_attack2effect_19
+  - first:
+      213: -7335961333600029375
+    second: miau_attack2effect_20
+  - first:
+      213: -3640874841567300155
+    second: miau_attack2effect_21
+  - first:
+      213: -6665048896339958975
+    second: miau_attack2effect_22
+  - first:
+      213: -148951642575735581
+    second: miau_attack2effect_23
+  - first:
+      213: 4749508258669877893
+    second: miau_attack2effect_24
+  - first:
+      213: 6084019583668814627
+    second: miau_attack2effect_25
+  - first:
+      213: 4720904631860460264
+    second: miau_attack2effect_26
+  - first:
+      213: -2966069569211347817
+    second: miau_attack2effect_27
+  - first:
+      213: -4071178592896941857
+    second: miau_attack2effect_28
+  - first:
+      213: -184886805066479710
+    second: miau_attack2effect_29
+  - first:
+      213: -7615408205101166035
+    second: miau_attack2effect_30
+  - first:
+      213: 8918865161585133231
+    second: miau_attack2effect_31
+  - first:
+      213: -2421962144941072514
+    second: miau_attack2effect_32
+  - first:
+      213: 8920386823022497051
+    second: miau_attack2effect_33
+  - first:
+      213: 2224015837257030599
+    second: miau_attack2effect_34
+  - first:
+      213: -4304657393058138724
+    second: miau_attack2effect_35
+  - first:
+      213: 5641049201848208148
+    second: miau_attack2effect_36
+  - first:
+      213: 7741038805683061641
+    second: miau_attack2effect_37
+  - first:
+      213: 8895287717935185944
+    second: miau_attack2effect_38
+  - first:
+      213: 4159095207239284915
+    second: miau_attack2effect_39
+  - first:
+      213: 6419685332951910247
+    second: miau_attack2effect_40
+  - first:
+      213: 1168412026535351473
+    second: miau_attack2effect_41
+  - first:
+      213: -937067278064599499
+    second: miau_attack2effect_42
+  - first:
+      213: 4284928371540172087
+    second: miau_attack2effect_43
+  - first:
+      213: 8079410694435440560
+    second: miau_attack2effect_44
+  - first:
+      213: -1743736132969888
+    second: miau_attack2effect_45
+  - first:
+      213: -3985650927325137321
+    second: miau_attack2effect_46
+  - first:
+      213: -1561790288204913366
+    second: miau_attack2effect_47
+  - first:
+      213: 3790566112482193434
+    second: miau_attack2effect_48
+  - first:
+      213: -7082645551190576913
+    second: miau_attack2effect_49
+  - first:
+      213: 1586496929822056475
+    second: miau_attack2effect_50
+  - first:
+      213: 8825891706791708871
+    second: miau_attack2effect_51
+  - first:
+      213: 7448714906480091079
+    second: miau_attack2effect_52
+  - first:
+      213: 5749538760620388282
+    second: miau_attack2effect_53
+  - first:
+      213: 1890486181391149370
+    second: miau_attack2effect_54
+  - first:
+      213: -3984603504782771246
+    second: miau_attack2effect_55
+  - first:
+      213: 7399956475907470880
+    second: miau_attack2effect_56
+  - first:
+      213: 900063170371360566
+    second: miau_attack2effect_57
+  - first:
+      213: -3668399001304798741
+    second: miau_attack2effect_58
+  - first:
+      213: -2652975383867822536
+    second: miau_attack2effect_59
+  - first:
+      213: 1461093218810837839
+    second: miau_attack2effect_60
+  - first:
+      213: -9018282234044650437
+    second: miau_attack2effect_61
+  - first:
+      213: -7342298673105606101
+    second: miau_attack2effect_62
+  - first:
+      213: -7005386641735225436
+    second: miau_attack2effect_63
+  - first:
+      213: 650870451281483346
+    second: miau_attack2effect_64
+  - first:
+      213: -4534201332425972667
+    second: miau_attack2effect_65
+  - first:
+      213: -1951875861216698776
+    second: miau_attack2effect_66
+  - first:
+      213: -572930755335438687
+    second: miau_attack2effect_67
+  - first:
+      213: 1660286603817574057
+    second: miau_attack2effect_68
+  - first:
+      213: 801105055298089976
+    second: miau_attack2effect_69
+  - first:
+      213: 1521538142592364457
+    second: miau_attack2effect_70
+  - first:
+      213: -3722857611166353945
+    second: miau_attack2effect_71
+  - first:
+      213: -3762197854397010887
+    second: miau_attack2effect_72
+  - first:
+      213: 5198194915381839983
+    second: miau_attack2effect_73
+  - first:
+      213: -32004032456511791
+    second: miau_attack2effect_74
+  - first:
+      213: -4320025293922970324
+    second: miau_attack2effect_75
+  - first:
+      213: 7809619756019745290
+    second: miau_attack2effect_76
+  - first:
+      213: -8355643879424947362
+    second: miau_attack2effect_77
+  - first:
+      213: 6070238701066044505
+    second: miau_attack2effect_78
+  - first:
+      213: -2023725827585830604
+    second: miau_attack2effect_79
+  - first:
+      213: 3349602124916729623
+    second: miau_attack2effect_80
+  - first:
+      213: 8114366774547315136
+    second: miau_attack2effect_81
+  - first:
+      213: -5491041856643575845
+    second: miau_attack2effect_82
+  - first:
+      213: -2131840156641449792
+    second: miau_attack2effect_83
+  - first:
+      213: 414587697085662280
+    second: miau_attack2effect_84
+  - first:
+      213: 4025640728926530111
+    second: miau_attack2effect_85
+  - first:
+      213: 8507417966366112580
+    second: miau_attack2effect_86
+  - first:
+      213: -462091267980934478
+    second: miau_attack2effect_87
+  - first:
+      213: 5072801604482174901
+    second: miau_attack2effect_88
+  - first:
+      213: 4300084552965915341
+    second: miau_attack2effect_89
+  - first:
+      213: -3956841922132318941
+    second: miau_attack2effect_90
+  - first:
+      213: 7673764179754317731
+    second: miau_attack2effect_91
+  - first:
+      213: 752417327529113111
+    second: miau_attack2effect_92
+  - first:
+      213: -2865243485744662291
+    second: miau_attack2effect_93
+  - first:
+      213: 8853109684634436684
+    second: miau_attack2effect_94
+  - first:
+      213: -7544068065811690415
+    second: miau_attack2effect_95
+  - first:
+      213: 470072810139260538
+    second: miau_attack2effect_96
+  - first:
+      213: 8604558104175730038
+    second: miau_attack2effect_97
+  - first:
+      213: 755972553772007597
+    second: miau_attack2effect_98
+  - first:
+      213: -1749859157979582306
+    second: miau_attack2effect_99
+  - first:
+      213: -7010481987299465898
+    second: miau_attack2effect_100
+  - first:
+      213: -8410264390323450100
+    second: miau_attack2effect_101
+  - first:
+      213: 8241357966996915090
+    second: miau_attack2effect_102
+  - first:
+      213: -7350101202873965643
+    second: miau_attack2effect_103
+  - first:
+      213: 7312432044184372937
+    second: miau_attack2effect_104
+  - first:
+      213: 7851597913029556808
+    second: miau_attack2effect_105
+  - first:
+      213: 4367019613744957734
+    second: miau_attack2effect_106
+  - first:
+      213: 4868209570596029593
+    second: miau_attack2effect_107
+  - first:
+      213: 7105997247871373436
+    second: miau_attack2effect_108
+  - first:
+      213: -286832718389516949
+    second: miau_attack2effect_109
+  - first:
+      213: -3651482516015592235
+    second: miau_attack2effect_110
+  - first:
+      213: 4778280986027636526
+    second: miau_attack2effect_111
+  - first:
+      213: -3448582601656301322
+    second: miau_attack2effect_112
+  - first:
+      213: -4273563097628126727
+    second: miau_attack2effect_113
+  - first:
+      213: 7917741092248021543
+    second: miau_attack2effect_114
+  - first:
+      213: 294854281000961972
+    second: miau_attack2effect_115
+  - first:
+      213: -8926981402230143736
+    second: miau_attack2effect_116
+  - first:
+      213: 8845086523418704141
+    second: miau_attack2effect_117
+  - first:
+      213: 3664941082188886810
+    second: miau_attack2effect_118
+  - first:
+      213: 9089293141419972062
+    second: miau_attack2effect_119
+  - first:
+      213: 7385696302692165552
+    second: miau_attack2effect_120
+  - first:
+      213: -4367873724404238157
+    second: miau_attack2effect_121
+  - first:
+      213: -7281026110512200970
+    second: miau_attack2effect_122
+  - first:
+      213: -2385758350222534395
+    second: miau_attack2effect_123
+  - first:
+      213: -5152002265798752536
+    second: miau_attack2effect_124
+  - first:
+      213: 8524744785423970149
+    second: miau_attack2effect_125
+  - first:
+      213: -8860524225647866921
+    second: miau_attack2effect_126
+  - first:
+      213: -4784195304013457808
+    second: miau_attack2effect_127
+  - first:
+      213: 8837123215513487304
+    second: miau_attack2effect_128
+  - first:
+      213: -7602387993446277497
+    second: miau_attack2effect_129
+  - first:
+      213: 4757069041645659785
+    second: miau_attack2effect_130
+  - first:
+      213: -2513091041294537023
+    second: miau_attack2effect_131
+  - first:
+      213: 8014427115120151181
+    second: miau_attack2effect_132
+  - first:
+      213: -1382210332628028114
+    second: miau_attack2effect_133
+  - first:
+      213: 6504889107638378366
+    second: miau_attack2effect_134
+  - first:
+      213: -3385291332382301452
+    second: miau_attack2effect_135
+  - first:
+      213: -7545287447611467572
+    second: miau_attack2effect_136
+  - first:
+      213: -40190143826971042
+    second: miau_attack2effect_137
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: miau_attack2effect_0
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1707
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45e3ab636170dc20800000000000000
+      internalID: 3229205604646249805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_1
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1707
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8634ecfdb141adb30800000000000000
+      internalID: 4312781703112180584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_2
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1707
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b949c45321e6ec0800000000000000
+      internalID: -3571897434330850506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_3
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1707
+        width: 67
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfa3043d3e3612f0800000000000000
+      internalID: -1002545434456772683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_4
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1707
+        width: 67
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08e3004cd7c1ee30800000000000000
+      internalID: 4531122448892160010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_5
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 1707
+        width: 67
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda2c384c37e887d0800000000000000
+      internalID: -2915826512626439459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_6
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 1707
+        width: 100
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ab475290ae49690800000000000000
+      internalID: -7596189346463172021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1437
+        width: 100
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594b832155c047280800000000000000
+      internalID: -9046592191963024235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_8
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1437
+        width: 100
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fee68925dad3ec0800000000000000
+      internalID: -3585519158060716163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_9
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1441
+        width: 105
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c698718e44c0040800000000000000
+      internalID: 4615139481765899351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_10
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1441
+        width: 105
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c29bcc5c68c25770800000000000000
+      internalID: 8598155006342566592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_11
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 1441
+        width: 105
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a30755aa22ff100800000000000000
+      internalID: 143871828072348253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_12
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 1444
+        width: 84
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6b61e41d0466570800000000000000
+      internalID: 8459520217764509352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_13
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 1444
+        width: 84
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8cd076d425d8bd0800000000000000
+      internalID: -2626352515292215045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_14
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1174
+        width: 84
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f683752168069880800000000000000
+      internalID: -8604680824711575818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_15
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1185
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867d9e42ae19866d0800000000000000
+      internalID: -2996985117187385496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_16
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1185
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd6bbdf9170d23b0800000000000000
+      internalID: -5535760558755975714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_17
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1185
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61d494f6bdb076d0800000000000000
+      internalID: -2994685158716288660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_18
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1190
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6bbd211f2f06600800000000000000
+      internalID: 459634279209219790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_19
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 1175
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150875c0dba49c110800000000000000
+      internalID: 1281637744779952209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_20
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 1190
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145f4c0e80e613a90800000000000000
+      internalID: -7335961333600029375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_21
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 1175
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c579bc2f93097dc0800000000000000
+      internalID: -3640874841567300155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_22
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 1190
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1432c0b775df083a0800000000000000
+      internalID: -6665048896339958975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_23
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 1175
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4ff8f2541deedf0800000000000000
+      internalID: -148951642575735581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_24
+      rect:
+        serializedVersion: 2
+        x: 2705
+        y: 1012
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a5dc7e894a9e140800000000000000
+      internalID: 4749508258669877893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_25
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 930
+        width: 73
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323891ba397ce6450800000000000000
+      internalID: 6084019583668814627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_26
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 953
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eaf98010c5048140800000000000000
+      internalID: 4720904631860460264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_27
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 930
+        width: 73
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ccf04117766d6d0800000000000000
+      internalID: -2966069569211347817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_28
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 953
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd00439c3a44087c0800000000000000
+      internalID: -4071178592896941857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_29
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 930
+        width: 73
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a70b5c2e662f6df0800000000000000
+      internalID: -184886805066479710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_30
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 953
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22995be592a05690800000000000000
+      internalID: -7615408205101166035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_31
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 926
+        width: 116
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa683eb3c9c26cb70800000000000000
+      internalID: 8918865161585133231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_32
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 953
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f1853e246736ed0800000000000000
+      internalID: -2421962144941072514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_33
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 926
+        width: 116
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1dc455ad849bcb70800000000000000
+      internalID: 8920386823022497051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_34
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 953
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb5c82ee9a4dde10800000000000000
+      internalID: 2224015837257030599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_35
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 926
+        width: 116
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95b20778e8c244c0800000000000000
+      internalID: -4304657393058138724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_36
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 953
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bc9ac8c58094e40800000000000000
+      internalID: 5641049201848208148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_37
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 916
+        width: 164
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983c04da7c1bd6b60800000000000000
+      internalID: 7741038805683061641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_38
+      rect:
+        serializedVersion: 2
+        x: 2661
+        y: 953
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8100c6adc09627b70800000000000000
+      internalID: 8895287717935185944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_39
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 920
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8f68e1e0318b930800000000000000
+      internalID: 4159095207239284915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_40
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 905
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76742602ccd471950800000000000000
+      internalID: 6419685332951910247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_41
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 902
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b41fe03c88073010800000000000000
+      internalID: 1168412026535351473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_42
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 920
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e3150864edef2f0800000000000000
+      internalID: -937067278064599499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_43
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 905
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d15a1c6af177b30800000000000000
+      internalID: 4284928371540172087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_44
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 902
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b701545835df1070800000000000000
+      internalID: 8079410694435440560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_45
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 920
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a563bc41ec9fff0800000000000000
+      internalID: -1743736132969888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_46
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 905
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7563416399f10b8c0800000000000000
+      internalID: -3985650927325137321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_47
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 902
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2524e1f108635ae0800000000000000
+      internalID: -1561790288204913366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_48
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 905
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a107228cbcbca9430800000000000000
+      internalID: 3790566112482193434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_49
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 902
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0f84b856365bd90800000000000000
+      internalID: -7082645551190576913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_50
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 905
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10aa435d8e540610800000000000000
+      internalID: 1586496929822056475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_51
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 902
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8c269eebddb7a70800000000000000
+      internalID: 8825891706791708871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_52
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 905
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf17e11eb62f5760800000000000000
+      internalID: 7448714906480091079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_53
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 902
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf2e195a077acf40800000000000000
+      internalID: 5749538760620388282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_54
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 902
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39aa9e6a2b5c3a10800000000000000
+      internalID: 1890486181391149370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_55
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 866
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db75a64938d3b8c0800000000000000
+      internalID: -3984603504782771246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_56
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 866
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026f0db453de1b660800000000000000
+      internalID: 7399956475907470880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_57
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 866
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63795694faaad7c00800000000000000
+      internalID: 900063170371360566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_58
+      rect:
+        serializedVersion: 2
+        x: 2669
+        y: 866
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be964d85b8a371dc0800000000000000
+      internalID: -3668399001304798741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_59
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 819
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ee3b6c1fcbe2bd0800000000000000
+      internalID: -2652975383867822536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_60
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 742
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bb3f29a88d64410800000000000000
+      internalID: 1461093218810837839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_61
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 742
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c6d8bc610a8d280800000000000000
+      internalID: -9018282234044650437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_62
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 742
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ae7ba024aea1a90800000000000000
+      internalID: -7342298673105606101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_63
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 742
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afea1927fdd7ce90800000000000000
+      internalID: -7005386641735225436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_64
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 742
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2565e6b1a3b580900800000000000000
+      internalID: 650870451281483346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_65
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 742
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544a5a059e74311c0800000000000000
+      internalID: -4534201332425972667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_66
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 742
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ed486ee3b89e4e0800000000000000
+      internalID: -1951875861216698776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_67
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 683
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aeb557738a8c08f0800000000000000
+      internalID: -572930755335438687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_68
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 683
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aed2ed9ed58a0710800000000000000
+      internalID: 1660286603817574057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_69
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 696
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3ffc8adc81e1b00800000000000000
+      internalID: 801105055298089976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_70
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 696
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afec6511e69d1510800000000000000
+      internalID: 1521538142592364457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_71
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 696
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5f1192ab0c55cc0800000000000000
+      internalID: -3722857611166353945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_72
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 646
+        width: 165
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cede10cfcf9cbc0800000000000000
+      internalID: -3762197854397010887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_73
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 632
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68839cfbb2b32840800000000000000
+      internalID: 5198194915381839983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_74
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 646
+        width: 165
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1deac06808c4e8ff0800000000000000
+      internalID: -32004032456511791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_75
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 632
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25d40732ef2c04c0800000000000000
+      internalID: -4320025293922970324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_76
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 631
+        width: 124
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a020e6c7ac7516c60800000000000000
+      internalID: 7809619756019745290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_77
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 631
+        width: 124
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b8539692aca0c80800000000000000
+      internalID: -8355643879424947362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_78
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 631
+        width: 124
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954ced6efe1dd3450800000000000000
+      internalID: 6070238701066044505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_79
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 576
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43196fbf4184ae3e0800000000000000
+      internalID: -2023725827585830604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_80
+      rect:
+        serializedVersion: 2
+        x: 2735
+        y: 576
+        width: 65
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7172e8ab26d2c7e20800000000000000
+      internalID: 3349602124916729623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_81
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 596
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9ff16f6950c9070800000000000000
+      internalID: 8114366774547315136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_82
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 596
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf45ff2686ebc3b0800000000000000
+      internalID: -5491041856643575845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_83
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 596
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c829792cae2a62e0800000000000000
+      internalID: -2131840156641449792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_84
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 596
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844c90d5059e0c500800000000000000
+      internalID: 414587697085662280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_85
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 596
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3aa2090ae2fdd730800000000000000
+      internalID: 4025640728926530111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_86
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 549
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b3701f09b601670800000000000000
+      internalID: 8507417966366112580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_87
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 549
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2cf26a0725699f0800000000000000
+      internalID: -462091267980934478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_88
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 539
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf0133be26366640800000000000000
+      internalID: 5072801604482174901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_89
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 539
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc28dab3e18fcab30800000000000000
+      internalID: 4300084552965915341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_90
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 539
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325edee6c397619c0800000000000000
+      internalID: -3956841922132318941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_91
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 539
+        width: 80
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a77f583ddfae7a60800000000000000
+      internalID: 7673764179754317731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_92
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 539
+        width: 80
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716b83aa29f117a00800000000000000
+      internalID: 752417327529113111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_93
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 472
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8ff2dfa3c9c38d0800000000000000
+      internalID: -2865243485744662291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_94
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 473
+        width: 89
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44c4363a509cda70800000000000000
+      internalID: 8853109684634436684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_95
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 473
+        width: 89
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c0de770161e4790800000000000000
+      internalID: -7544068065811690415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_96
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 473
+        width: 89
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a769be2fab8068600800000000000000
+      internalID: 470072810139260538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_97
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 474
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d5a90c108896770800000000000000
+      internalID: 8604558104175730038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_98
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 474
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da086874801cd7a00800000000000000
+      internalID: 755972553772007597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_99
+      rect:
+        serializedVersion: 2
+        x: 2734
+        y: 474
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90b9a1fd5047b7e0800000000000000
+      internalID: -1749859157979582306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_100
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 306
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655adb296c3c5be90800000000000000
+      internalID: -7010481987299465898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_101
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 306
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f47a3b81db84b80800000000000000
+      internalID: -8410264390323450100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_102
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 306
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293cfa9086f2f5270800000000000000
+      internalID: 8241357966996915090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_103
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 306
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3a68306e13ff990800000000000000
+      internalID: -7350101202873965643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_104
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 390
+        width: 19
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c60bc5833afa7560800000000000000
+      internalID: 7312432044184372937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_105
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 390
+        width: 19
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a335dc3ba76fc60800000000000000
+      internalID: 7851597913029556808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_106
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 390
+        width: 19
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6298e648335ca9c30800000000000000
+      internalID: 4367019613744957734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_107
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 269
+        width: 80
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9948883cfca5f8340800000000000000
+      internalID: 4868209570596029593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_108
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 306
+        width: 21
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70d64609d29d9260800000000000000
+      internalID: 7105997247871373436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_109
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 306
+        width: 21
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65ee6e8927f40cf0800000000000000
+      internalID: -286832718389516949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_110
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 306
+        width: 21
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc47518ff3535dc0800000000000000
+      internalID: -3651482516015592235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_111
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 269
+        width: 113
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e273e298d3ddf4240800000000000000
+      internalID: 4778280986027636526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_112
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 269
+        width: 113
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f80fa9256c2420d0800000000000000
+      internalID: -3448582601656301322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_113
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 269
+        width: 113
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f158a8410141b4c0800000000000000
+      internalID: -4273563097628126727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_114
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 269
+        width: 116
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ae4fac29771ed60800000000000000
+      internalID: 7917741092248021543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_115
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 269
+        width: 116
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7c0970868871400800000000000000
+      internalID: 294854281000961972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_116
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 269
+        width: 116
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805cd8b36bdfc1480800000000000000
+      internalID: -8926981402230143736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_117
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 204
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0977fb645f00ca70800000000000000
+      internalID: 8845086523418704141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_118
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 204
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13ba9e1f7c7cd230800000000000000
+      internalID: 3664941082188886810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_119
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 204
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed55bb974f7a32e70800000000000000
+      internalID: 9089293141419972062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_120
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 120
+        width: 19
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7e1ecf7a34f7660800000000000000
+      internalID: 7385696302692165552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_121
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 120
+        width: 19
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b87f195df13263c0800000000000000
+      internalID: -4367873724404238157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_122
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 120
+        width: 19
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2839a345994fa90800000000000000
+      internalID: -7281026110512200970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_123
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 120
+        width: 19
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5095017bb6514eed0800000000000000
+      internalID: -2385758350222534395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_124
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 120
+        width: 19
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6ce095c396088b0800000000000000
+      internalID: -5152002265798752536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_125
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2
+        width: 116
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f2f00673afd4670800000000000000
+      internalID: 8524744785423970149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_126
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 22
+        width: 13
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db048e6928190580800000000000000
+      internalID: -8860524225647866921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_127
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 2
+        width: 116
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0769f2008bf1b9db0800000000000000
+      internalID: -4784195304013457808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_128
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 22
+        width: 13
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c70a015eb4c3aa70800000000000000
+      internalID: 8837123215513487304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_129
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2
+        width: 116
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e90fd2664ee7690800000000000000
+      internalID: -7602387993446277497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_130
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 22
+        width: 13
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9862c4fd611840240800000000000000
+      internalID: 4757069041645659785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_131
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 5
+        width: 108
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce2c6b4305bf1dd0800000000000000
+      internalID: -2513091041294537023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_132
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 22
+        width: 13
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8acefabff6f83f60800000000000000
+      internalID: 8014427115120151181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_133
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 5
+        width: 108
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25f4d6960761dce0800000000000000
+      internalID: -1382210332628028114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_134
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 22
+        width: 13
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fd714dd22064a50800000000000000
+      internalID: 6504889107638378366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_135
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 6
+        width: 90
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2e42028770501d0800000000000000
+      internalID: -3385291332382301452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_136
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 22
+        width: 13
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc897e40b01c94790800000000000000
+      internalID: -7545287447611467572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miau_attack2effect_137
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 8
+        width: 77
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56b8b1f647317ff0800000000000000
+      internalID: -40190143826971042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      miau_attack2effect_0: 3229205604646249805
+      miau_attack2effect_1: 4312781703112180584
+      miau_attack2effect_10: 8598155006342566592
+      miau_attack2effect_100: -7010481987299465898
+      miau_attack2effect_101: -8410264390323450100
+      miau_attack2effect_102: 8241357966996915090
+      miau_attack2effect_103: -7350101202873965643
+      miau_attack2effect_104: 7312432044184372937
+      miau_attack2effect_105: 7851597913029556808
+      miau_attack2effect_106: 4367019613744957734
+      miau_attack2effect_107: 4868209570596029593
+      miau_attack2effect_108: 7105997247871373436
+      miau_attack2effect_109: -286832718389516949
+      miau_attack2effect_11: 143871828072348253
+      miau_attack2effect_110: -3651482516015592235
+      miau_attack2effect_111: 4778280986027636526
+      miau_attack2effect_112: -3448582601656301322
+      miau_attack2effect_113: -4273563097628126727
+      miau_attack2effect_114: 7917741092248021543
+      miau_attack2effect_115: 294854281000961972
+      miau_attack2effect_116: -8926981402230143736
+      miau_attack2effect_117: 8845086523418704141
+      miau_attack2effect_118: 3664941082188886810
+      miau_attack2effect_119: 9089293141419972062
+      miau_attack2effect_12: 8459520217764509352
+      miau_attack2effect_120: 7385696302692165552
+      miau_attack2effect_121: -4367873724404238157
+      miau_attack2effect_122: -7281026110512200970
+      miau_attack2effect_123: -2385758350222534395
+      miau_attack2effect_124: -5152002265798752536
+      miau_attack2effect_125: 8524744785423970149
+      miau_attack2effect_126: -8860524225647866921
+      miau_attack2effect_127: -4784195304013457808
+      miau_attack2effect_128: 8837123215513487304
+      miau_attack2effect_129: -7602387993446277497
+      miau_attack2effect_13: -2626352515292215045
+      miau_attack2effect_130: 4757069041645659785
+      miau_attack2effect_131: -2513091041294537023
+      miau_attack2effect_132: 8014427115120151181
+      miau_attack2effect_133: -1382210332628028114
+      miau_attack2effect_134: 6504889107638378366
+      miau_attack2effect_135: -3385291332382301452
+      miau_attack2effect_136: -7545287447611467572
+      miau_attack2effect_137: -40190143826971042
+      miau_attack2effect_14: -8604680824711575818
+      miau_attack2effect_15: -2996985117187385496
+      miau_attack2effect_16: -5535760558755975714
+      miau_attack2effect_17: -2994685158716288660
+      miau_attack2effect_18: 459634279209219790
+      miau_attack2effect_19: 1281637744779952209
+      miau_attack2effect_2: -3571897434330850506
+      miau_attack2effect_20: -7335961333600029375
+      miau_attack2effect_21: -3640874841567300155
+      miau_attack2effect_22: -6665048896339958975
+      miau_attack2effect_23: -148951642575735581
+      miau_attack2effect_24: 4749508258669877893
+      miau_attack2effect_25: 6084019583668814627
+      miau_attack2effect_26: 4720904631860460264
+      miau_attack2effect_27: -2966069569211347817
+      miau_attack2effect_28: -4071178592896941857
+      miau_attack2effect_29: -184886805066479710
+      miau_attack2effect_3: -1002545434456772683
+      miau_attack2effect_30: -7615408205101166035
+      miau_attack2effect_31: 8918865161585133231
+      miau_attack2effect_32: -2421962144941072514
+      miau_attack2effect_33: 8920386823022497051
+      miau_attack2effect_34: 2224015837257030599
+      miau_attack2effect_35: -4304657393058138724
+      miau_attack2effect_36: 5641049201848208148
+      miau_attack2effect_37: 7741038805683061641
+      miau_attack2effect_38: 8895287717935185944
+      miau_attack2effect_39: 4159095207239284915
+      miau_attack2effect_4: 4531122448892160010
+      miau_attack2effect_40: 6419685332951910247
+      miau_attack2effect_41: 1168412026535351473
+      miau_attack2effect_42: -937067278064599499
+      miau_attack2effect_43: 4284928371540172087
+      miau_attack2effect_44: 8079410694435440560
+      miau_attack2effect_45: -1743736132969888
+      miau_attack2effect_46: -3985650927325137321
+      miau_attack2effect_47: -1561790288204913366
+      miau_attack2effect_48: 3790566112482193434
+      miau_attack2effect_49: -7082645551190576913
+      miau_attack2effect_5: -2915826512626439459
+      miau_attack2effect_50: 1586496929822056475
+      miau_attack2effect_51: 8825891706791708871
+      miau_attack2effect_52: 7448714906480091079
+      miau_attack2effect_53: 5749538760620388282
+      miau_attack2effect_54: 1890486181391149370
+      miau_attack2effect_55: -3984603504782771246
+      miau_attack2effect_56: 7399956475907470880
+      miau_attack2effect_57: 900063170371360566
+      miau_attack2effect_58: -3668399001304798741
+      miau_attack2effect_59: -2652975383867822536
+      miau_attack2effect_6: -7596189346463172021
+      miau_attack2effect_60: 1461093218810837839
+      miau_attack2effect_61: -9018282234044650437
+      miau_attack2effect_62: -7342298673105606101
+      miau_attack2effect_63: -7005386641735225436
+      miau_attack2effect_64: 650870451281483346
+      miau_attack2effect_65: -4534201332425972667
+      miau_attack2effect_66: -1951875861216698776
+      miau_attack2effect_67: -572930755335438687
+      miau_attack2effect_68: 1660286603817574057
+      miau_attack2effect_69: 801105055298089976
+      miau_attack2effect_7: -9046592191963024235
+      miau_attack2effect_70: 1521538142592364457
+      miau_attack2effect_71: -3722857611166353945
+      miau_attack2effect_72: -3762197854397010887
+      miau_attack2effect_73: 5198194915381839983
+      miau_attack2effect_74: -32004032456511791
+      miau_attack2effect_75: -4320025293922970324
+      miau_attack2effect_76: 7809619756019745290
+      miau_attack2effect_77: -8355643879424947362
+      miau_attack2effect_78: 6070238701066044505
+      miau_attack2effect_79: -2023725827585830604
+      miau_attack2effect_8: -3585519158060716163
+      miau_attack2effect_80: 3349602124916729623
+      miau_attack2effect_81: 8114366774547315136
+      miau_attack2effect_82: -5491041856643575845
+      miau_attack2effect_83: -2131840156641449792
+      miau_attack2effect_84: 414587697085662280
+      miau_attack2effect_85: 4025640728926530111
+      miau_attack2effect_86: 8507417966366112580
+      miau_attack2effect_87: -462091267980934478
+      miau_attack2effect_88: 5072801604482174901
+      miau_attack2effect_89: 4300084552965915341
+      miau_attack2effect_9: 4615139481765899351
+      miau_attack2effect_90: -3956841922132318941
+      miau_attack2effect_91: 7673764179754317731
+      miau_attack2effect_92: 752417327529113111
+      miau_attack2effect_93: -2865243485744662291
+      miau_attack2effect_94: 8853109684634436684
+      miau_attack2effect_95: -7544068065811690415
+      miau_attack2effect_96: 470072810139260538
+      miau_attack2effect_97: 8604558104175730038
+      miau_attack2effect_98: 755972553772007597
+      miau_attack2effect_99: -1749859157979582306
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

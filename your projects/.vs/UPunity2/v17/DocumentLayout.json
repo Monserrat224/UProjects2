@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MONSE\\Documents\\Uprojects\\UProjects22\\UPunity2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E70D3371-3109-6F1F-BB7C-7A06FF436EEF}|Assembly-CSharp.csproj|c:\\users\\monse\\documents\\uprojects\\uprojects22\\upunity2\\assets\\4 scripts\\combatejugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70D3371-3109-6F1F-BB7C-7A06FF436EEF}|Assembly-CSharp.csproj|solutionrelative:assets\\4 scripts\\combatejugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70D3371-3109-6F1F-BB7C-7A06FF436EEF}|Assembly-CSharp.csproj|C:\\Users\\MONSE\\Documents\\Uprojects\\UProjects22\\UPunity2\\assets\\4 scripts\\jefe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70D3371-3109-6F1F-BB7C-7A06FF436EEF}|Assembly-CSharp.csproj|solutionrelative:assets\\4 scripts\\jefe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70D3371-3109-6F1F-BB7C-7A06FF436EEF}|Assembly-CSharp.csproj|C:\\Users\\MONSE\\Documents\\Uprojects\\UProjects22\\UPunity2\\assets\\4 scripts\\scripts personajes\\kit\\barravida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70D3371-3109-6F1F-BB7C-7A06FF436EEF}|Assembly-CSharp.csproj|solutionrelative:assets\\4 scripts\\scripts personajes\\kit\\barravida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70D3371-3109-6F1F-BB7C-7A06FF436EEF}|Assembly-CSharp.csproj|C:\\Users\\MONSE\\Documents\\Uprojects\\UProjects22\\UPunity2\\assets\\4 scripts\\scripts personajes\\kit\\enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70D3371-3109-6F1F-BB7C-7A06FF436EEF}|Assembly-CSharp.csproj|solutionrelative:assets\\4 scripts\\scripts personajes\\kit\\enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70D3371-3109-6F1F-BB7C-7A06FF436EEF}|Assembly-CSharp.csproj|C:\\Users\\MONSE\\Documents\\Uprojects\\UProjects22\\UPunity2\\assets\\4 scripts\\scripts personajes\\kit\\movimientojugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70D3371-3109-6F1F-BB7C-7A06FF436EEF}|Assembly-CSharp.csproj|solutionrelative:assets\\4 scripts\\scripts personajes\\kit\\movimientojugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70D3371-3109-6F1F-BB7C-7A06FF436EEF}|Assembly-CSharp.csproj|C:\\Users\\MONSE\\Documents\\Uprojects\\UProjects22\\UPunity2\\assets\\4 scripts\\scripts personajes\\kit\\combatecac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70D3371-3109-6F1F-BB7C-7A06FF436EEF}|Assembly-CSharp.csproj|solutionrelative:assets\\4 scripts\\scripts personajes\\kit\\combatecac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CombateJugador.cs",
+              "DocumentMoniker": "C:\\Users\\MONSE\\Documents\\Uprojects\\UProjects22\\UPunity2\\Assets\\4 Scripts\\CombateJugador.cs",
+              "RelativeDocumentMoniker": "Assets\\4 Scripts\\CombateJugador.cs",
+              "ToolTip": "C:\\Users\\MONSE\\Documents\\Uprojects\\UProjects22\\UPunity2\\Assets\\4 Scripts\\CombateJugador.cs",
+              "RelativeToolTip": "Assets\\4 Scripts\\CombateJugador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T01:55:49.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jefe.cs",
+              "DocumentMoniker": "C:\\Users\\MONSE\\Documents\\Uprojects\\UProjects22\\UPunity2\\Assets\\4 Scripts\\Jefe.cs",
+              "RelativeDocumentMoniker": "Assets\\4 Scripts\\Jefe.cs",
+              "ToolTip": "C:\\Users\\MONSE\\Documents\\Uprojects\\UProjects22\\UPunity2\\Assets\\4 Scripts\\Jefe.cs",
+              "RelativeToolTip": "Assets\\4 Scripts\\Jefe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T01:42:56.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BarraVida.cs",
+              "DocumentMoniker": "C:\\Users\\MONSE\\Documents\\Uprojects\\UProjects22\\UPunity2\\Assets\\4 Scripts\\scripts personajes\\Kit\\BarraVida.cs",
+              "RelativeDocumentMoniker": "Assets\\4 Scripts\\scripts personajes\\Kit\\BarraVida.cs",
+              "ToolTip": "C:\\Users\\MONSE\\Documents\\Uprojects\\UProjects22\\UPunity2\\Assets\\4 Scripts\\scripts personajes\\Kit\\BarraVida.cs",
+              "RelativeToolTip": "Assets\\4 Scripts\\scripts personajes\\Kit\\BarraVida.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T16:10:30.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enemigo.cs",
+              "DocumentMoniker": "C:\\Users\\MONSE\\Documents\\Uprojects\\UProjects22\\UPunity2\\Assets\\4 Scripts\\scripts personajes\\Kit\\Enemigo.cs",
+              "RelativeDocumentMoniker": "Assets\\4 Scripts\\scripts personajes\\Kit\\Enemigo.cs",
+              "ToolTip": "C:\\Users\\MONSE\\Documents\\Uprojects\\UProjects22\\UPunity2\\Assets\\4 Scripts\\scripts personajes\\Kit\\Enemigo.cs",
+              "RelativeToolTip": "Assets\\4 Scripts\\scripts personajes\\Kit\\Enemigo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T04:54:14.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovimientoJugador.cs",
+              "DocumentMoniker": "C:\\Users\\MONSE\\Documents\\Uprojects\\UProjects22\\UPunity2\\Assets\\4 Scripts\\scripts personajes\\Kit\\MovimientoJugador.cs",
+              "RelativeDocumentMoniker": "Assets\\4 Scripts\\scripts personajes\\Kit\\MovimientoJugador.cs",
+              "ToolTip": "C:\\Users\\MONSE\\Documents\\Uprojects\\UProjects22\\UPunity2\\Assets\\4 Scripts\\scripts personajes\\Kit\\MovimientoJugador.cs",
+              "RelativeToolTip": "Assets\\4 Scripts\\scripts personajes\\Kit\\MovimientoJugador.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T04:37:44.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CombateCaC.cs",
+              "DocumentMoniker": "C:\\Users\\MONSE\\Documents\\Uprojects\\UProjects22\\UPunity2\\Assets\\4 Scripts\\scripts personajes\\Kit\\CombateCaC.cs",
+              "RelativeDocumentMoniker": "Assets\\4 Scripts\\scripts personajes\\Kit\\CombateCaC.cs",
+              "ToolTip": "C:\\Users\\MONSE\\Documents\\Uprojects\\UProjects22\\UPunity2\\Assets\\4 Scripts\\scripts personajes\\Kit\\CombateCaC.cs",
+              "RelativeToolTip": "Assets\\4 Scripts\\scripts personajes\\Kit\\CombateCaC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T04:39:18.807Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
